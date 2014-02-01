@@ -1,12 +1,5 @@
-#一点点说明
+#### 说明
+这是从[BeiYuu.com](http://beiyuu.com)的源码中fork过来的，谢谢他编写了如此优美的页面。你可以看他的文章[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)
 
-这是[BeiYuu.com](http://beiyuu.com)的源码，如果你看了[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)，希望看下去哦：
-
-* 马上动手，很赞
-* 感谢认可
-* 推荐阅读：[我为什么写博客？](http://beiyuu.com/why-blog/)
-* 想复用我的设计，没问题，标个出处就好啦
-* 转载也没问题，标个出处呗少年
-* 恩，认真的童鞋最可爱啦~
-
-###请删掉统计代码哦 /_layouts/default.html L38-41
+另外,fork后请删掉网站统计代码:
+在/_layouts/default.html文件中
