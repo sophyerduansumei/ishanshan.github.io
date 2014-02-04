@@ -5,12 +5,13 @@ description: 人生苦短，我用Python
 category: blog
 ---
 
+## 写在前面
+
 最早接触的爬虫是GitHub上非常有名的开源爬虫框架[Scrapy][2]，到后面接触一个短小的[zhihu-to-renren][3]，再到最近接触[@苏莉安][4]同学的js代码。不过要熟悉爬虫还是建议从自己手写开始。这篇文章将向大家介绍如何用Python抓取知乎用户的**followers-list**
 
-
-
-## source code
 源代码[在这里][5]
+
+
 
 ### 工具介绍
 抓取工作开始之前，我们先看本次需要使用的工具：
@@ -20,7 +21,7 @@ category: blog
 
 ### 思路概述
 * 使用[Requests][6]包，建立session()会话对象。并用它实现模拟登录功能。使用session对象的好处是貌似不用去担心cookies，直接用session对象去做post和get就行了。
-*
+* 到达目标页面后发送请求，获得服务器返回的内容
 
 ### 一起读代码吧!
 
