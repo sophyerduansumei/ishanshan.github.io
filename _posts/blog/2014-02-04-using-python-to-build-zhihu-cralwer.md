@@ -25,7 +25,7 @@ category: blog
 
 ### 一起读代码吧!
 
-#### 模拟登录
+**模拟登录**
     import requests
 
     s = requests.session()
@@ -48,18 +48,17 @@ category: blog
 2.`r.cookies`和`r.headers`顾名思义。
 
 
-#### 转跳到用户页面.开始抓取
+**转跳到用户页面.开始抓取**
 
     # 用户页面地址 http://www.zhihu.com/people/zihaolucky/followers
     r = s.get('http://www.zhihu.com/people/zihaolucky/followers')
     
-##### 爬虫模拟/伪装浏览器的原理
-爬虫要做到伪装浏览器，需要在发送请求的时候带上`cookies`,`headers`和必要的请求参数`params`；这也是我们下面要重点说的。
+爬虫模拟/伪装浏览器的原理是什么？爬虫要做到伪装浏览器，需要在发送请求的时候带上`cookies`,`headers`和必要的请求参数`params`；这也是我们下面要重点说的。
 
 那么，我们如何拿到这些信息？因为想要得到followers列表，所以我下一步要实现页面点击“更多”按钮的功能。那么，**当我们点击“更多”按钮，发生了什么呢？**利用Chrome的network功能就可以了。
 
 
-##### headers
+**headers**
 
 ![login](/images/using-python-to-build-zhihu-crawler/network-headers.jpg)
 
@@ -76,7 +75,7 @@ category: blog
         'Content-Type':'application/x-www-form-urlencoded',
         }
 
-##### form data & params
+**form data & params**
 
 至于`form data`和`params`这里就需要注意了，因为这里有`hash_id`和`_xsrf`这些比较麻烦的东西，不过我们仍然有办法！至于怎么拿到这些信息，给个hint：还是用Chrome，然后结合正则表达式就行了。
 
@@ -102,7 +101,7 @@ category: blog
     payload = {"method":"next", "params": params, "_xsrf":_xsrf,}
 
 
-#### 小结 & Next Step.
+**小结 & Next Step.**
 至此我们便把必要的请求信息都处理好了，剩下的就是发送这个请求。同样地，我们用`s`这个会话对象发送请求：
 
     click_url = 'http://www.zhihu.com/node/ProfileFollowersListV2'
