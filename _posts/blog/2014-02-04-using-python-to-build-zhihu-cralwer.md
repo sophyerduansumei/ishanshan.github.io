@@ -116,7 +116,7 @@ category: blog
 * 伪装IP地址。在抓取不同用户的时候可以随机换用不同的IP地址进行
 * 将抓取结果储存到txt或者sqlite数据库中
 * 结合Scrapy做更多性能更强的抓取
-
+* [多线程抓取][9]
 
 ## 结语：抓知乎上的东西做研究，是在“与虎谋皮”吗？
 我知道伸手党确实十分惹人厌，我明白知友辛苦耕耘、分享知识、经验和见解都是对其他知友以及互联网，甚至社会的贡献。知乎的出现，其实是在为社会进步出力。但当我们谈起知乎的时候，我们谈的是什么？
@@ -144,3 +144,4 @@ category: blog
 [6]: http://docs.python-requests.org/en/latest/
 [7]: http://www.zhihu.com/people/crossin
 [8]: http://stackoverflow.com/questions/21518669/how-to-request-the-load-more-function-with-python
+[9]: http://zihaolucky.github.io/mutilthread-crawler/
