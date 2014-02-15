@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用Python Requests抓取知乎用户信息（二）
-description: 这次我们来聊聊多线程，看看性能如何。
+description: 这次我们来聊聊多线程，试着提升抓取性能。
 category: blog
 ---
 你可以先读一下[用Python Requests抓取知乎用户信息][3]了解文章的背景和细节；这篇文章主要关注对爬虫性能的改造。
@@ -57,37 +57,37 @@ category: blog
 
 
 ###一起来读代码吧
-import threading
-from time import ctime
+	import threading
+	from time import ctime
 
-def main():
-    # login
-    s.post('http://www.zhihu.com/login', login_data)
+	def main():
+	    # login
+	    s.post('http://www.zhihu.com/login', login_data)
     
-    for user in user_list:
-        print 'crawling ' + user + '\'s followers...\n'
-        # 写文件
-        global fp
-        fp = codecs.open(user + '.txt', 'w', 'utf-8')
+	    for user in user_list:
+	        print 'crawling ' + user + '\'s followers...\n'
+	        # 写文件
+	        global fp
+	        fp = codecs.open(user + '.txt', 'w', 'utf-8')
         
-        url = 'http://www.zhihu.com/people/' + user + '/followers'
-        # 转跳到用户followers页
-        r = s.get(url)
-        data = r.text
+	        url = 'http://www.zhihu.com/people/' + user + '/followers'
+	        # 转跳到用户followers页
+	        r = s.get(url)
+	        data = r.text
         
-        # 多线程
-        print 'starting at:',ctime()
-        threads = []
-        t = threading.Thread(target=load_more_thread1,args=(user,data))
-        threads.append(t)
-        t = threading.Thread(target=load_more_thread2,args=(user,data))
-        threads.append(t)
+	        # 多线程
+	        print 'starting at:',ctime()
+	        threads = []
+	        t = threading.Thread(target=load_more_thread1,args=(user,data))
+	        threads.append(t)
+	        t = threading.Thread(target=load_more_thread2,args=(user,data))
+	        threads.append(t)
 
-        for i in range(2):
-               threads[i].start()
-        for i in range(2):
-               threads[i].join()
-        print 'all DONE at:',ctime()
+	        for i in range(2):
+	               threads[i].start()
+	        for i in range(2):
+	               threads[i].join()
+	        print 'all DONE at:',ctime()
 
 
 ###细节解释
