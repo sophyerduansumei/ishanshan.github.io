@@ -21,7 +21,9 @@ category: blog
 正因如此，在Computer Vision、Audio Processing以及Natural Language Processing领域。目前有大量的研究人员在用他们的专业知识去寻找这些特征(features)，这无疑是非常耗费时间精力的事情，一旦新的问题出现，又需要重新构造特征。
 
 Prof. Andrew Ng在CS294A的Lecture中这样说：
-    Once a good feature representation is given, a supervised learning algorithm can do well. But in such domains as computer vision, audio processing, and natural language processing, there’re now hundreds or perhaps thousands of researchers who’ve spent years of their lives slowly and laboriously hand-engineering vision, audio or text features. While much of this feature-engineering work is extremely clever, one has to wonder if we can do better. Certainly this labor-intensive hand-engineering approach does not scale well to new problems; further, ideally we’d like to have algorithms that can automatically learn even better feature representa- tions than the hand-engineered ones.
+
+	Once a good feature representation is given, 
+	a supervised learning algorithm can do well. But in such domains as computer vision, audio processing, and natural language processing, there’re now hundreds or perhaps thousands of researchers who’ve spent years of their lives slowly and laboriously hand-engineering vision, audio or text features. While much of this feature-engineering work is extremely clever, one has to wonder if we can do better. Certainly this labor-intensive hand-engineering approach does not scale well to new problems; further, ideally we’d like to have algorithms that can automatically learn even better feature representa- tions than the hand-engineered ones.
 
 问题是，我们能否想办法给出能自动生成有效特征的算法呢?这就是 **Sparse Autoencoder** 算法的目标，它是一种在unlabeled data中自动学习/寻找特征的算法。
 
@@ -31,23 +33,10 @@ Prof. Andrew Ng在CS294A的Lecture中这样说：
 
 ##Sparse Auto-encoder
 
-
+test$\exp(-\frac{x^2}{2})$
 
 $$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
+\frac{a}{b}
 $$
 
 
