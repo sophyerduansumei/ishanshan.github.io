@@ -22,7 +22,7 @@ category: blog
 
 Prof. Andrew Ng在CS294A的Lecture中这样说：
 
-	Once a good feature representation is given, a supervised learning algorithm can do well. But in such domains as computer vision, audio processing, and natural language processing, there’re now hundreds or perhaps thousands of researchers who’ve spent years of their lives slowly and laboriously hand-engineering vision, audio or text features. While much of this feature-engineering work is extremely clever, one has to wonder if we can do better. Certainly this labor-intensive hand-engineering approach does not scale well to new problems; further, ideally we’d like to have algorithms that can automatically learn even better feature representa- tions than the hand-engineered ones.
+***Once a good feature representation is given, a supervised learning algorithm can do well. But in such domains as computer vision, audio processing, and natural language processing, there’re now hundreds or perhaps thousands of researchers who’ve spent years of their lives slowly and laboriously hand-engineering vision, audio or text features. While much of this feature-engineering work is extremely clever, one has to wonder if we can do better. Certainly this labor-intensive hand-engineering approach does not scale well to new problems; further, ideally we’d like to have algorithms that can automatically learn even better feature representa- tions than the hand-engineered ones.***
 
 问题是，我们能否想办法给出能自动生成有效特征的算法呢?这就是 **Sparse Autoencoder** 算法的目标，它是一种在unlabeled data中自动学习/寻找特征的算法。
 
