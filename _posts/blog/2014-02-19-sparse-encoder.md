@@ -32,7 +32,7 @@ Prof. Andrew Ng在CS294A的Lecture中这样说：
 
 ##Sparse Auto-encoder
 
-test $\exp(-\frac{x^2}{2})$ test
+test $$\exp(-\frac{x^2}{2})$$ test
 
 $$
 \frac{a}{b}
