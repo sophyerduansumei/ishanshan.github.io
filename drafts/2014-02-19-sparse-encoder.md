@@ -21,8 +21,7 @@ category: blog
 正因如此，在Computer Vision、Audio Processing以及Natural Language Processing领域。目前有大量的研究人员在用他们的专业知识去寻找这些特征(features)，这无疑是非常耗费时间精力的事情，一旦新的问题出现，又需要重新构造特征。
 
 Prof. Andrew Ng在CS294A的Lecture中这样说：
-
-**_Once a good feature representation is given,a supervised learning algorithm can do well. But in such domains as computer vision, audio processing, and natural language processing, there’re now hundreds or perhaps thousands of researchers who’ve spent years of their lives slowly and laboriously hand-engineering vision, audio or text features. While much of this feature-engineering work is extremely clever, one has to wonder if we can do better. Certainly this labor-intensive hand-engineering approach does not scale well to new problems; further, ideally we’d like to have algorithms that can automatically learn even better feature representa- tions than the hand-engineered ones._**
+_Once a good feature representation is given,a supervised learning algorithm can do well. But in such domains as computer vision, audio processing, and natural language processing, there’re now hundreds or perhaps thousands of researchers who’ve spent years of their lives slowly and laboriously hand-engineering vision, audio or text features. While much of this feature-engineering work is extremely clever, one has to wonder if we can do better. Certainly this labor-intensive hand-engineering approach does not scale well to new problems; further, ideally we’d like to have algorithms that can automatically learn even better feature representa- tions than the hand-engineered ones._
 
 问题是，我们能否想办法给出能自动生成有效特征的算法呢?这就是 **Sparse Autoencoder** 算法的目标，它是一种在unlabeled data中自动学习/寻找特征的算法。
 
@@ -34,7 +33,7 @@ Prof. Andrew Ng在CS294A的Lecture中这样说：
 
 ###看似枯燥的自我学习
 自编码神经网络是一种无监督学习算法，它使用了反向传播算法，并让目标值等于输入值:
-![sparse-encoder](/images/sparse-encoder/sparse-encoder.png)
+![sparse-encoder](/images/sparse-encoder/self-encoded-network.png)
 
 这样看来，自编码神经网络尝试去逼近一个恒等函数，从而使得输出 $\hat{x}$ 接近于输入 $x$ ；你会发现，隐层的数目较少，如果这个逼近效果很不错的话，意味着什么呢？这表明我们可以用少的features去生成原有数据，即隐层是对原数据的压缩。不过，如果网络的输入数据是完全随机的，那么这一压缩表示将会非常难学习，也就是原数据隐含的结构特征并不是那么明显。
 
@@ -54,7 +53,7 @@ $$x_j = \frac{W_{ij}^{(1)}}{\sqrt{\sigma_{i=1}^100(W_{ij})^2}}$$
 当我们用上式算出各像素的值、把它们组成一幅图像、并将图像呈现在我们面前之时，隐藏单元$i$所追寻特征的真正含义也渐渐明朗起来。
 假如我们训练的自编码器有100个隐藏单元，可视化结果就会包含100幅这样的图像——每个隐藏单元都对应一幅图像。审视这100幅图像，我们可以试着体会这些隐藏单元学出来的整体效果是什么样的。
 
-![sparse-encoder](/images/sparse-encoder/visulized.png)
+![visualized-image](/images/sparse-encoder/visualized.png)
 
 
 我们可以看到，不同的隐藏单元学会了在图像的不同位置和方向进行边缘检测。恰恰边缘是图像识别中最突出的问题。
