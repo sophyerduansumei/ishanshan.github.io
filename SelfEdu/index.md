@@ -13,7 +13,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.SelfEdu %}
+        {% for post in site.categories.selfedu %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
