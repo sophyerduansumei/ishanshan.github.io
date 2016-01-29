@@ -70,10 +70,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry blockquote{margin-left:25px;font-size:16px;margin-right:25px;color:#555;
   border-left:5px solid #ccc;padding:5px 30px;background:#eee;margin-bottom:40px}
 .entry blockquote p{margin:0px}
-
 .entry img{max-width:670px;display:block;margin:10px auto;}
-
 .entry center{margin-bottom: 40px;color:#999;font-size:14px;}
+
 
 .index-content .aside {
     position: fixed;
@@ -90,11 +89,11 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .community .aside{
     background-image:url(http://openmindclub.qiniudn.com/ishanshan/image/MTyangmei.jpg);
 }
-.opinion .aside{
+.selfedu .aside{
     background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);
 }
 .murmur .aside{
-    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg)
+    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg);
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
