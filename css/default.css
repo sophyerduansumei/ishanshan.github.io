@@ -67,7 +67,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ul li{margin-bottom:5px;list-style:disc;line-height:1.8em;}
 .entry ol{margin-bottom:25px;margin-left:25px;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}
-.entry blockquote{margin-left:25px;font-size:14px;
+.entry blockquote{margin-left:25px;font-size:14px;margin-right:25px;
   border-left:5px solid #ccc;padding:5px 30px;background:#eee;margin-bottom:40px}
 .entry blockquote p{margin:0px}
 
@@ -94,7 +94,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);
 }
 .murmur .aside{
-    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')
+    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg)
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
