@@ -5,7 +5,7 @@ description: 彷徨多发的毕业季，没经历千军万马的校招，再一�
 category: selfedu
 ---
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/blog/SE150602.JPG)
+![ ](http://openmindclub.qiniudn.com/ishanshan/blog/SE150602.JPG)
 
 >黄姗，你不会是去传销公司了吧？
 
