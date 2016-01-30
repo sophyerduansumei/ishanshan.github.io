@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content SelfEdu">
+<div class="index-content selfedu">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Community</span></a></li>
