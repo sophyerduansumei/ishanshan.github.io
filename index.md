@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content Community">
+<div class="index-content community">
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Community</span></a></li>
