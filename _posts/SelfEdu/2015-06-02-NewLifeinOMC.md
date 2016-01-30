@@ -5,6 +5,8 @@ description: 彷徨多发的毕业季，没经历千军万马的校招，再一�
 category: selfedu
 ---
 
+![ ](http://openmindclub.qiniudn.com/ishanshan/blog/blog/SE150602.JPG)
+
 >黄姗，你不会是去传销公司了吧？
 
 看我说不清自己的工作是什么，且是这家创业公司的第二名正式员工，公司的工作有很多志愿者帮忙，老妈在电话那头幽幽地冒出了这句话。
@@ -73,7 +75,7 @@ category: selfedu
 >「美好的事情即将发生」
 
 
-
+--
 
 2015.6.2清晨于北京
 
