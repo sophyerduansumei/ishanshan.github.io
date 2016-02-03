@@ -1,9 +1,13 @@
 auto: true
 
-markdown: rdiscount
-pygments: highlighter
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: pygments
+
+gems: [jekyll-paginate]
+permalink: none
 paginate: 8
-permalink: /:title
 
 title: ishanshan'blog
 url: http://ishanshan.top
