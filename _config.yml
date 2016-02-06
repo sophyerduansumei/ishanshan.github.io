@@ -2,7 +2,7 @@ auto: true
 
 markdown: kramdown
 input: GFM
-highlighter: pygments
+rouge: pygments
 
 gems: [jekyll-paginate]
 permalink: none
