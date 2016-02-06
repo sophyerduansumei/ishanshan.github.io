@@ -1,8 +1,7 @@
 auto: true
 
 markdown: kramdown
-kramdown:
-  input: GFM
+input: GFM
 highlighter: pygments
 
 gems: [jekyll-paginate]
