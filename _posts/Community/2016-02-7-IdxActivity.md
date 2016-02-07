@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 被 10 场活动改变的玩耍习惯
+title: 改变我玩耍习惯的 10 场活动
 description: 想聊某个话题，或想做什么探索，就发起一场活动吧！
 category: community
 ---
