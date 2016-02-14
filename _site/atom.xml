@@ -4,7 +4,7 @@
    <title>ishanshan'blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2016-02-13T12:14:28+08:00</updated>
+   <updated>2016-02-14T15:58:03+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -17,12 +17,12 @@
      <link href="http://beiyuu.com/community/HbGitHubCooperate.html"/>
      <updated>2016-02-12T00:00:00+08:00</updated>
      <id>http://beiyuu.com/community/HbGitHubCooperate</id>
-     <content type="html">&lt;p&gt;近期看到不少同伴使用 GitHub 协作，我开始理解当初大妈和我协作时的痛苦感受—-这不顺眼那不专业，虽不至酿成大错，但实在让人浑身不自在。遂复盘自己踩坑经历（其实就是被大妈咆哮调教的经历T_T）整理几大常见业余姿势，让更多小伙伴少走弯路，更快体会 GitHub 协作的舒爽乐趣。&lt;/p&gt;
+     <content type="html">&lt;p&gt;近期看到不少同伴使用 GitHub 协作，我开始理解当初 &lt;a href=&quot;http://zoomquiet.io/&quot;&gt;@ZoomQuiet 大妈&lt;/a&gt; 和我协作时的痛苦感受—-这不顺眼那不专业，虽不至酿成大错，但实在让人浑身不自在。遂复盘自己踩坑经历（其实就是被大妈咆哮调教的血泪史）供你规避几大常见业余姿势，少走弯路，更快体会 GitHub 协作的舒爽乐趣。&lt;/p&gt;
 
 &lt;p&gt;注意：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;本文适用于了解 GitHub 是什么的小伙伴，否则请先移步 GitHub 基础教程：
+  &lt;li&gt;若不了解 GitHub 是什么，请先移步 GitHub 基础教程：
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;http://git-scm.com/book/en/v2&quot;&gt;电子书《Pro Git》&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://try.github.io/&quot;&gt;TryGit: 一个交互式的 git 教程&lt;/a&gt;&lt;/li&gt;
@@ -35,7 +35,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/LogoGitHub1.jpg?imageView2/2/w/340&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;嗯哼，如果你绕过以上两坎，那来看看我被咆哮嫌弃 N 次的业余姿势吧……&lt;/p&gt;
+&lt;p&gt;嗯哼，如果你绕过以上两坎，那来看看我被咆哮嫌弃 N 次的业余姿势你中了几个吧……&lt;/p&gt;
 
 &lt;h2 id=&quot;wiki-&quot;&gt;用中文命名 wiki 或文件&lt;/h2&gt;
 
@@ -88,7 +88,7 @@
 
 &lt;p&gt;每次直接在唯一指定文档上更新，同事也直接从唯一指定文档取用信息，岂不快哉？&lt;/p&gt;
 
-&lt;p&gt;当然，这需要建立在团队有统一的&lt;a href=&quot;&quot;&gt;文件命名规约&lt;/a&gt;，同事也都熟悉并遵守的前提下。否则，别挣扎了，继续要找东西就在群里吼谁有/谁知道在哪儿吧……&lt;/p&gt;
+&lt;p&gt;当然，这需要建立在团队有统一的&lt;a href=&quot;http://ishanshan.top/community/HbDocName.html&quot;&gt;文件命名规约&lt;/a&gt;、同事也都熟悉并遵守的前提下。否则，别挣扎了，继续要找东西就在群里吼谁有/谁知道在哪儿吧……&lt;/p&gt;
 
 &lt;h2 id=&quot;wiki-pages--sidebar--issues-&quot;&gt;wiki pages 从不挂 sidebar 也不和 Issues 关联&lt;/h2&gt;
 
@@ -201,62 +201,360 @@
 
 &lt;ul&gt;
   &lt;li&gt;OM2Py 课程运营仓库中&lt;code class=&quot;highlighter-rouge&quot;&gt;StandUpMeeting&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Task&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;OM2Py 的学员仓库中&lt;code class=&quot;highlighter-rouge&quot;&gt;优秀学员示范&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;C2T2&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;公告&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Doc&lt;/code&gt;（关闭了 wiki 模块，所以增设了 Doc 标签）&lt;/li&gt;
+  &lt;li&gt;OM2Py 的学员仓库中&lt;code class=&quot;highlighter-rouge&quot;&gt;优秀学员示范&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;C2T2&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;公告&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Doc&lt;/code&gt;（关闭了 wiki 模块，所以增设了 Doc 标签发布可长期使用的文档）&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;milestone&quot;&gt;milestone&lt;/h3&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;最简单的是按照里程碑的本意「时间节点」来使用，比如课程运营中的课程设计、招生、入学、正式教学、复盘等阶段&lt;/li&gt;
-  &lt;li&gt;还可以设置没有时间节点的里程碑，比如 Chaos 来承载没有明确节点的讨论&lt;/li&gt;
-  &lt;li&gt;当然还可以有其他分类，欢迎根据自己项目的特点大胆尝试&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;点开 miletone 标签栏，便可一目了然地了解每个阶段进展如何（close 的 Issue 占比多少），比如：
+&lt;p&gt;若 miletone 设置合理，点开 miletone 界面，可一目了然当前项目进展如何（close 的 Issue 占比多少），比如：
 &lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/HbGH004.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;由此反推 milestone 的设置思路：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;一般按项目发展阶段的「时间节点」来设置 miletone，比如课程运营中的&lt;code class=&quot;highlighter-rouge&quot;&gt;课程设计&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;招生&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;入学&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;正式教学&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;复盘&lt;/code&gt;等阶段&lt;/li&gt;
+  &lt;li&gt;也可以设置没有时间节点的里程碑比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;Chaos&lt;/code&gt; 来承载没有明确截止时间的讨论 Issue&lt;/li&gt;
+  &lt;li&gt;当然还可以有其他分类，欢迎根据自己项目的特点大胆尝试;-)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;asignee&quot;&gt;asignee&lt;/h3&gt;
 
+&lt;p&gt;在团队协作中，&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Issue 永远只是暂时性任务的追踪/提醒/讨论!&lt;/li&gt;
+    &lt;li&gt;Issue 是过程讨论，尽量消灭 Issue !&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;若此，asignee 便是牵头推进此 Issue 至 close、消灭该 Issue 的直接负责人。设定 asignee 后，在 Issue 主界面便又多一个维度了解目前团队进展：&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;这里通常选的是 Issue 跟进人，即此 Issue 是谁来牵头推进至 close&lt;/li&gt;
-  &lt;li&gt;设定了 asignee ，在 Issue 主界面就更方便了解目前团队进展啦
-    &lt;ul&gt;
-      &lt;li&gt;目前没有 close 的 Issue 都主要是谁在推进&lt;/li&gt;
-      &lt;li&gt;也可根据 asignee 筛选查看，便可对某人负责的 issue 情况一目了然
-        &lt;ul&gt;
-          &lt;li&gt;有几个没 close&lt;/li&gt;
-          &lt;li&gt;close 了哪些，结果如何&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;目前没有 close 的 Issue 都主要是谁在推进&lt;/li&gt;
+  &lt;li&gt;也可根据 asignee 筛选查看，便可对某人负责的 issue 情况一目了然，比如有多少没 close，close 了哪些，结果如何。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;明了这些，现在你应该能理解为啥团队协作发 Issue 若不设定这三项十恶不赦了吧？俺也是被大妈暗示明示提点了三遍才 got 到=-=……&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;什么都不设定，就相当于切断了这个 Issue 大部分搜索接口，尤其 Issue 越积越多，团队更新换代后，虽有全文检索功能，但不知道有哪些关键词的新人，如何快速了解/获取自己想要的信息？难道又回到那个需要什么就在群里吼的局面？&lt;/p&gt;
+&lt;p&gt;明了这些，现在你应该能理解为啥团队协作发 Issue 若不设定 labels/milestone/asignee 这三项十恶不赦了吧？&lt;/p&gt;
 
-&lt;p&gt;缺少多维度的搜索接口，也是我越发难以容忍目前国内一些项目管理平台话题板块的原因：&lt;/p&gt;
+&lt;p&gt;什么都不设定，就相当于切断了这个 Issue 大部分搜索接口。 Issue 越积越多，团队更新换代后，虽有全文检索功能，但不知道有哪些关键词的新人，如何快速了解/获取自己想要的信息？难道又回到那个需要什么就在群里吼的局面？&lt;/p&gt;
+
+&lt;p&gt;这也是我越发难以容忍国内一些项目管理平台话题板块的原因：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;不可设标签&lt;/li&gt;
-  &lt;li&gt;不能 asign 给某人&lt;/li&gt;
+  &lt;li&gt;不能 asign 某人&lt;/li&gt;
   &lt;li&gt;不能关闭&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;尤其处于一个高速发展却没全员形成良好的知识管理契约的团队，无论该变成文档的还是转换为任务的内容，都在话题板块里，很容易积攒几百条话题，且更新异常迅速，使用的术语体系还不一样搜索非常不便，难以快速了解目前进展。&lt;/p&gt;
+&lt;p&gt;尤其处于一个高速发展却没全员形成良好的知识管理契约的团队，无论该变成文档的还是转换为任务的内容，都发在话题板块里，很快积攒几百条话题不说，更新异常迅速，使用的术语体系还不一样，导致搜索非常不便，难以快速了解目前进展、找到想要的内容。&lt;/p&gt;
 
-&lt;p&gt;Anyway，Issue 可供性非常强大，团队内形成默契的使用礼仪，用对 GitHub 的 Issue，将会幸福无比！&lt;/p&gt;
+&lt;p&gt;嗷不吐槽了，总之 Issue 可供性强大，团队内形成默契的使用礼仪，用对 GitHub ，用对 Issue，幸福感会大幅提升的！&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/LogoGitHub2.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;section-1&quot;&gt;小结&lt;/h2&gt;
 
-&lt;p&gt;叨这么多，要改善大部分协作业余表现，归结起来其实只有一点：&lt;/p&gt;
+&lt;p&gt;说了这么多，要改善大部分协作业余表现，其实转变一下思考角度就好：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;多从团队知识管理、经验传承而非自己一时便利的角度考虑个人如何参与协作。&lt;/p&gt;
+  &lt;p&gt;多从&lt;strong&gt;团队知识管理&lt;/strong&gt;、&lt;strong&gt;经验传承&lt;/strong&gt;的角度思考个人如何参与协作，而非自己一时便利想咋整咋整。&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;不过说着简单，做起来挺难的……协作三个月，我依然不时被大妈精准吐槽无地自容 T_T&lt;/p&gt;
+
+&lt;p&gt;欢迎看到这篇文章的你也和我分享实践经验，一起探索更多协作乐趣噻~&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;160212 完善配图 Blog 发布&lt;/li&gt;
+  &lt;li&gt;160122 在 WorkFlowy 起草&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+   </entry>
+   
+   <entry>
+     <title>协作文档撰写指南</title>
+     <link href="http://beiyuu.com/community/HbDoc.html"/>
+     <updated>2016-02-11T00:00:00+08:00</updated>
+     <id>http://beiyuu.com/community/HbDoc</id>
+     <content type="html">&lt;p&gt;文档作为团队内部信息传递/沉淀的主要媒介，撰写时应包含有助于此文档顺利使用的相关信息，以便使用者能依据文档顺利开展工作，减少沟通成本。特此建立此文档撰写指南，供创建文案、规约、纪要、策划等文档时参考，方便团队协作。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;文档结构&lt;/h2&gt;
+
+&lt;p&gt;常规文档结构一般包括五大部分&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;头部说明&lt;/strong&gt; ~ 文档背景、适用情境等有助于队友正确使用本文档的信息&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;正文&lt;/strong&gt; ~ 文案、规约、纪要、策划等内容的正文&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;NEED&lt;/strong&gt; ~ 要达成文档内容所驱动事务的目的，需要谁做什么（若无可忽略）。也不一定汇总到一个板块，在正文中及时说明也 OK&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;参考资料&lt;/strong&gt; ~ 有助于队友更好地使用本文档的资料链接&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ChangeLog&lt;/strong&gt; ~ 记录文档修订过程&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;各板块要点&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;头部说明&lt;/h3&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;常规要求&lt;/h4&gt;
+
+&lt;p&gt;一般来说，应该在文档第一行就明确文档的性质：文案？规约？记要？策划？ …&lt;/p&gt;
+
+&lt;p&gt;不同性质的文档头部说明有不同的侧重点，但总体来说，需要给出文档的背景信息，比如：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;简要说明背景要素和提出正文的原因，即给出文档的 &lt;code class=&quot;highlighter-rouge&quot;&gt;5W1H&lt;/code&gt; ，比如本文第一段头部说明&lt;/li&gt;
+  &lt;li&gt;说明方式可以是简要描述，也可以链接相关任务卡及相关过程讨论 Issue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以便文档使用者知道原因、进展，根据已有内容获取足够信息以判断文档内容是否 OK ，并给出建设性建议。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;各性质文档头部说明侧重点&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;若正文是微信原创图文文案、对外发布的邮件通知等&lt;strong&gt;文案&lt;/strong&gt;，头部说明一般要有
+    &lt;ul&gt;
+      &lt;li&gt;公司近期运营着力点&lt;/li&gt;
+      &lt;li&gt;过往运营节奏、数据分析&lt;/li&gt;
+      &lt;li&gt;本次发布目标、发布时间、负责人&lt;/li&gt;
+      &lt;li&gt;发布后的计划（发布后的微博、机器人朋友圈、各微信群的推送计划）等&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;若正文是&lt;strong&gt;活动策划&lt;/strong&gt;，头部说明一般需要
+    &lt;ul&gt;
+      &lt;li&gt;基本同微信图文&lt;/li&gt;
+      &lt;li&gt;若是系列活动，还应加上之前活动的数据、经验分析和调整方向&lt;/li&gt;
+      &lt;li&gt;若内容太长，可将某些部分另起文档说明，加上超链接即可&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;若正文是&lt;strong&gt;规约/手册&lt;/strong&gt;，头部说明一般为
+    &lt;ul&gt;
+      &lt;li&gt;适用人员&lt;/li&gt;
+      &lt;li&gt;适用情境/环境配置建议等&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;若正文是&lt;strong&gt;纪要&lt;/strong&gt;，头部说明一般为
+    &lt;ul&gt;
+      &lt;li&gt;背景，也就是为什么会有这次沟通&lt;/li&gt;
+      &lt;li&gt;参与者，以便其他看到文档的人知晓这些是谁达成的共识，了解谁（不在现场）不一定知晓&lt;/li&gt;
+      &lt;li&gt;沟通发生的时间地点，以便知晓是在哪里发生的&lt;/li&gt;
+      &lt;li&gt;录音链接（我们公司沟通录音一般上传到公用百度云账号）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;总之，一定避免没有任何背景信息介绍，一开篇直接是正文的情况，尤其需要发给别人修订、审核的文案。毕竟这样的无头文档容易让看到的人摸不着头脑，不清楚这个文档是否适合自己/当下情况使用，甚至在无正确理解的情况下进行下一步操作。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;文档正文&lt;/h3&gt;
+
+&lt;p&gt;展开文档正文，该怎么写就怎么写吧。&lt;/p&gt;
+
+&lt;p&gt;若是纪要这类过程性文档，有良好团队知识管理习惯的队友一般还会及时把共识同步更新到其它相关文档中，比如战略会议后，通常需要和纪要同步更新关于定位/季度目标/公司品牌使用规约等文档。毕竟常用的还是长期使用的文档，而非每次翻过往会议纪要看最新共识。&lt;/p&gt;
+
+&lt;h3 id=&quot;need&quot;&gt;NEED&lt;/h3&gt;
+
+&lt;p&gt;列出需要谁配合做什么来完善这个文档/推动这个事情。通常列成 checklist 的方式，比如：&lt;a href=&quot;https://github.com/ishanshan/OMOOC2py/issues/2&quot;&gt;OM2py 结业典礼 筹备 checklist&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;checklist 注意描述清楚 who/when/what，并在微信群或项目管理平台等协作界面知会对方&lt;/li&gt;
+  &lt;li&gt;尽可能给出成果链接地址
+    &lt;ul&gt;
+      &lt;li&gt;可以由挖坑的人给出链接地址，以便填坑人顺利填坑&lt;/li&gt;
+      &lt;li&gt;也可由填坑人按照团队共识上传成果给出地址，以便其他同伴使用该成果&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;如果有必要，还可以开个任务卡、issue 来跟进 &lt;code class=&quot;highlighter-rouge&quot;&gt;NEED TO DO&lt;/code&gt; 的完成&lt;/li&gt;
+  &lt;li&gt;若没有，可不写&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;参考资料&lt;/h3&gt;
+
+&lt;p&gt;列出文档中涉及到的相关资料出处，以便相关参考资料内容变化后看到该文档的同事也能及时看到最新版本。&lt;/p&gt;
+
+&lt;h3 id=&quot;changelog&quot;&gt;ChangeLog&lt;/h3&gt;
+
+&lt;p&gt;记录修订过程，一般为 日期+人员+动作 。举例：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;151129 闪闪创建&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;请一定注明创建人，以便日后有疑问时方便追踪源头求解清楚&lt;/li&gt;
+  &lt;li&gt;使用倒序，以便一眼看到最近更新&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-7&quot;&gt;其它&lt;/h2&gt;
+
+&lt;p&gt;以上主要为协作时创建文档的内容建议，写完内容就完事儿了吗？想得美！—- 命名更是关键：它看似简单，实际体现了你对你的对象在当前体系中的关系/作用的理解深度，往大了说，命名还直接反映了你对整个资源结构的理解。俺也是踩了好多坑才慢慢明白……&lt;/p&gt;
+
+&lt;p&gt;好的命名能让队友一眼识别文件内容需要时及时调用。别做猪队友，从了解&lt;a href=&quot;http://ishanshan.top/community/HbDocName.html&quot;&gt;团队文档命名规约&lt;/a&gt;开始 XD&lt;/p&gt;
+
+&lt;p&gt;PS.对产品文档了解不多，所以没有列出。看到本文的你若觉得有啥需增补修正的欢迎提出：D&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog-1&quot;&gt;ChangeLog&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;160211 完善后在 Blog 发布&lt;/li&gt;
+  &lt;li&gt;160110 重构&lt;/li&gt;
+  &lt;li&gt;151129 在团队仓库创建一稿&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+   </entry>
+   
+   <entry>
+     <title>团队文档命名规约</title>
+     <link href="http://beiyuu.com/community/HbDocName.html"/>
+     <updated>2016-02-10T00:00:00+08:00</updated>
+     <id>http://beiyuu.com/community/HbDocName</id>
+     <content type="html">&lt;p&gt;文件命名看似简单，但其实这体现了&lt;strong&gt;你对你的对象在当前体系中的关系/作用的理解&lt;/strong&gt;深度，往大了说，命名还直接反映了&lt;strong&gt;你对整个资源结构的理解&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;统一的命名规约，对团队，尤其对团队知识管理来说，非常重要。否则创建一文件，队友很可能难以识别所含内容。&lt;/p&gt;
+
+&lt;p&gt;为减少这种不必要的团队协作成本，特整理一份团队文档命名规约，文件命名也可参考。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;命名原则&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;命名尽量以 &lt;strong&gt;ASCII 字串&lt;/strong&gt;（别用汉语拼音！）进行，尤其在取 WikiName 时
+    &lt;ul&gt;
+      &lt;li&gt;方便同一目录下顺次查找&lt;/li&gt;
+      &lt;li&gt;URL 干净清晰&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;命名尽量&lt;strong&gt;简明&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB&quot;&gt;采用大驼峰式命名法&lt;/a&gt;，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;HbDocName&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;前后两个单词相连的字母重复时，只写一个，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;OBSetting&lt;/code&gt;（本是 &lt;code class=&quot;highlighter-rouge&quot;&gt;OBSSetting&lt;/code&gt;），&lt;code class=&quot;highlighter-rouge&quot;&gt;OBSuggest&lt;/code&gt;（本是 &lt;code class=&quot;highlighter-rouge&quot;&gt;OBSSuggest&lt;/code&gt;）&lt;/li&gt;
+      &lt;li&gt;日期使用6位数字标注，默认忽略年份前两位以减少字符，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;151203&lt;/code&gt;（2015年12月3日）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;常用缩写&lt;/h2&gt;
+
+&lt;p&gt;既然以英文命名，缩写不可避免。团队常用缩写如下（注意大小写）：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;WIP&lt;/code&gt; ~ Work In Press 任务进行中&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;PR&lt;/code&gt; ~ Public Relationship 公关稿&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;HR&lt;/code&gt; ~ Human Resource 人力资源/人事&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ml&lt;/code&gt; ~ Mailling-list 邮件列表通告&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;SOP&lt;/code&gt; ~ Standard Operating Procedure 标准操作流程&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;BGM&lt;/code&gt; ~ Background Music 背景音乐&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Hb&lt;/code&gt; ~ Handbook 手册&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Doc&lt;/code&gt; ~ Document 文档&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Docs&lt;/code&gt; ~ Google Docs 谷歌在线共享文档&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Idx&lt;/code&gt; ~ Index 索引&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Info&lt;/code&gt; ~ Infomation 资料(注意和索引类文档性质上的区别)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Rec&lt;/code&gt; ~ Record 录音&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Rep&lt;/code&gt; ~ Report 报告&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Res&lt;/code&gt; ~ Resource 资源&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ref&lt;/code&gt; ~ Reference 参考（资料）&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Tep&lt;/code&gt; ~ Template 模板&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Del&lt;/code&gt; ~ Delete 删除&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;upd&lt;/code&gt; ~ update 更新&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;KM&lt;/code&gt; ~ Knowledge Management 知识管理&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;LM&lt;/code&gt; ~ LogMeeting 会议纪要&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;wt&lt;/code&gt; ~ worktile&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; ~ for&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2&lt;/code&gt; ~ to&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;命名规则&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;常规命名结构：文档属性-类别/项目/使用者&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;先定位文档属性，比如是 &lt;code class=&quot;highlighter-rouge&quot;&gt;idx&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;info&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Hb&lt;/code&gt; 还是 &lt;code class=&quot;highlighter-rouge&quot;&gt;Log&lt;/code&gt;（这其实在引人思考所建内容的整体结构和关联）。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Hb&lt;/code&gt; 里一般会链接到 &lt;code class=&quot;highlighter-rouge&quot;&gt;Idx&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Info&lt;/code&gt; 等以便进一步参考调用的内容&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Idx&lt;/code&gt; ，注意这是&lt;strong&gt;索引索引索引！&lt;/strong&gt;里面一般会有较多链接，尤其是 &lt;code class=&quot;highlighter-rouge&quot;&gt;info&lt;/code&gt; 文档链接&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Info&lt;/code&gt; 一般里头是可直接复制使用或者不需再进一步点击的内容&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Log&lt;/code&gt; 沟通纪要、会议备忘等&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;如此，在一个目录下浏览时，文档按类似树状的结构展开，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;Hb&lt;/code&gt; ：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HbDoc ~ 文档创建规约&lt;/li&gt;
+  &lt;li&gt;HbDocName ~ 文档命名规约&lt;/li&gt;
+  &lt;li&gt;HbMentor ~ 教练手册&lt;/li&gt;
+  &lt;li&gt;HbPM ~ 项目经理手册&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;一些系列文档不前缀文档属性代号也 OK 。比如我们课程每周都有微信群答疑，答疑记录文档，新手一般会延续中文文档命名习惯（ &lt;code class=&quot;highlighter-rouge&quot;&gt;0w 微信群答疑纪要&lt;/code&gt; ）以 &lt;code class=&quot;highlighter-rouge&quot;&gt;Log0wQA&lt;/code&gt;命名，但更合适的应该是&lt;code class=&quot;highlighter-rouge&quot;&gt;LogQAw0&lt;/code&gt;。若此，在同一个目录下，可以快速定位这个系列文档下的所有内容。若目录下，并无其它 QA 系列文档的需求，根据简明原则，还可直接命名为 &lt;code class=&quot;highlighter-rouge&quot;&gt;QAw0&lt;/code&gt;。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;根据具体情境和想达成的效果确定单词的先后顺序。比如&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;HbBrandOM&lt;/li&gt;
+      &lt;li&gt;HbOMBrand&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;两种命名方式其实都可以让人一眼识别这是 OM 品牌使用手册，用哪种命名方式主要看这个文档在什么情境下，以及自己想干嘛：&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;若在集团的 wiki 下，希望兄弟公司在同一个事务上有更多的借鉴，就以前者命名&lt;/li&gt;
+      &lt;li&gt;若各公司相对独立，希望每个子公司的同事更方便找到本公司的内容，以后者命名更合适&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;版本号标注规则&lt;/h3&gt;
+
+&lt;p&gt;手册等反复修改使用的文档，版本号采用&lt;a href=&quot;http://semver.org/lang/zh-CN/&quot;&gt;语义化版本控制&lt;/a&gt;的命名方式。但其实基于 git 进行文档管理后，不标注版本号也无妨。&lt;/p&gt;
+
+&lt;p&gt;会议纪要等基于时间的文档，以日期进行命名，比如：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;LM2015Q3 ~ 2015年第3季度季会纪要&lt;/li&gt;
+  &lt;li&gt;LMApp151203 ~ 2015年12月3日产品会议纪要
+    &lt;ul&gt;
+      &lt;li&gt;如果经常开产品会或其它某个主题的会，就把主题放日期前形成一个单独序列&lt;/li&gt;
+      &lt;li&gt;如果是临时的主题，就放在日期后面，一目了然以便日后查找，比如 LM151205Community ~ 2015年12月5日社群运营讨论纪要&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;p&gt;若刚接触这样的命名规约，难免不知所措。不必担心，多看别人怎么命名,根据命名猜测文档内容并验证，慢慢就轻车熟路啦，比如可以看&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zoomquiet.io/&quot;&gt;@ZoomQuiet 大妈&lt;/a&gt; 在&lt;a href=&quot;http://openmindclub.qiniudn.com/&quot;&gt;七牛云&lt;/a&gt;中共享的文件&lt;/li&gt;
+  &lt;li&gt;GitHub 各 wiki 中的文档等（内部仓库，非团队成员别点啦）
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/anrenmind/eopenmind.com/wiki&quot;&gt;Home · anrenmind/eopenmind.com Wiki&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/anrenmind/anrenmind.com/wiki&quot;&gt;Home · anrenmind/anrenmind.com Wiki&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/OpenMindClub/2.OMOOC.py/wiki&quot;&gt;Home · OpenMindClub/2.OMOOC.py Wiki&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;是不是十分简明干净？&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Anyway，文档命名规则没有对错之分，若单看某个文件名，队友就能明白其中所含内容，协作需要时能即时调取，这就是好规则。&lt;/p&gt;
+
+&lt;p&gt;祝各位都远离「各人用词、命名习惯不一样，难以形成共识，徒增团队协作成本」的烦恼（比如俺在&lt;a href=&quot;http://ishanshan.top/community/HbGitHubCooperate.html&quot;&gt;《GitHub 协作五大业余姿势》&lt;/a&gt; 提到的现象，哈哈）!&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;160210 增补完善后在 Blog 发布&lt;/li&gt;
+  &lt;li&gt;151220 在团队仓库创建&lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
    </entry>
@@ -549,6 +847,7 @@
      <updated>2015-06-02T00:00:00+08:00</updated>
      <id>http://beiyuu.com/selfedu/NewLifeinOMC</id>
      <content type="html">&lt;p&gt;&lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/SE150602.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+&lt;center&gt;2013 年秋摄于奥林匹克森林公园&lt;/center&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;黄姗，你不会是去传销公司了吧？&lt;/p&gt;

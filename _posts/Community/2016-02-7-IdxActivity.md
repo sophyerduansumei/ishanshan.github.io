@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 改变我玩耍习惯的 10 场活动
-description: 想聊某个话题，或想做什么探索，就发起一场活动吧！
+description: 城市无论大小亲疏，肯定有认同你玩法、愿意一起玩耍的小伙伴，找到合适的切入点通过恰当的方式吸引他们一起玩耍吧！
 category: community
 ---
 

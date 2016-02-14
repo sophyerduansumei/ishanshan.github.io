@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--
+    * Author:         BeiYuu
+    -->
+    <meta charset="utf-8" />
+    <title>团队文档命名规约 | ishanshan'blog</title>
+    <meta name="author" content="ishanshan" />
+    <meta name="description" content="ishanshan's Blog" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml" />
+    <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+</head>
+<body>
+
+    <div class="home-menu">
+        <div class="home-icon-con">
+            <a class="home-menu-icon" href="/">ishanshan</a>
+            <a class="home-follow" href="#" title="Contact Me">+</a>
+        </div>
+        <div class="home-contact">
+            <a href="http://weibo.com/1696816107/profile" target="_blank" style="margin-left:-5px;"><img src="http://openmindclub.qiniudn.com/ishanshan/image/iconWeibo.png" alt="" width="25"/></a>
+            <a href="http://ishanshan.top/AboutMe" target="_blank" style="text-align:center;"><img src="http://openmindclub.qiniudn.com/ishanshan/image/ishanshan.png" alt="" width="22"/></a>
+			<a href="https://github.com/ishanshan" target="_blank" style="text-align:center;"><img src="http://openmindclub.qiniudn.com/ishanshan/image/iconGitHub.png" alt="" width="22"/></a>
+			<a href="http://www.slideshare.net/ssusere6acd7/presentations" target="_blank" style="text-align:center;"><img src="http://openmindclub.qiniudn.com/ishanshan/image/iconSlideshare.png" alt="" width="22"/></a>
+        </div>
+    </div>
+
+	
+	<link rel="stylesheet" href="/js/prettify/prettify.css" />
+<style type="text/css">
+    body { background:#e8e8e8; }
+    @media screen and (max-width: 750px){
+        body { background:#fff; }
+    }
+    @media screen and (max-width: 1020px){
+        body { background:#fff; }
+    }
+</style>
+
+<div id="content">
+    <div class="entry">
+        <h1 class="entry-title"><a href="/community/HbDocName.html" title="团队文档命名规约">团队文档命名规约</a></h1>
+        <p class="entry-date">2016-02-10</p>
+        <p>文件命名看似简单，但其实这体现了<strong>你对你的对象在当前体系中的关系/作用的理解</strong>深度，往大了说，命名还直接反映了<strong>你对整个资源结构的理解</strong>。</p>
+
+<p>统一的命名规约，对团队，尤其对团队知识管理来说，非常重要。否则创建一文件，队友很可能难以识别所含内容。</p>
+
+<p>为减少这种不必要的团队协作成本，特整理一份团队文档命名规约，文件命名也可参考。</p>
+
+<h2 id="section">命名原则</h2>
+
+<ul>
+  <li>命名尽量以 <strong>ASCII 字串</strong>（别用汉语拼音！）进行，尤其在取 WikiName 时
+    <ul>
+      <li>方便同一目录下顺次查找</li>
+      <li>URL 干净清晰</li>
+    </ul>
+  </li>
+  <li>命名尽量<strong>简明</strong>
+    <ul>
+      <li><a href="https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB">采用大驼峰式命名法</a>，比如 <code class="highlighter-rouge">HbDocName</code></li>
+      <li>前后两个单词相连的字母重复时，只写一个，比如 <code class="highlighter-rouge">OBSetting</code>（本是 <code class="highlighter-rouge">OBSSetting</code>），<code class="highlighter-rouge">OBSuggest</code>（本是 <code class="highlighter-rouge">OBSSuggest</code>）</li>
+      <li>日期使用6位数字标注，默认忽略年份前两位以减少字符，比如 <code class="highlighter-rouge">151203</code>（2015年12月3日）</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="section-1">常用缩写</h2>
+
+<p>既然以英文命名，缩写不可避免。团队常用缩写如下（注意大小写）：</p>
+
+<ul>
+  <li><code class="highlighter-rouge">WIP</code> ~ Work In Press 任务进行中</li>
+  <li><code class="highlighter-rouge">PR</code> ~ Public Relationship 公关稿</li>
+  <li><code class="highlighter-rouge">HR</code> ~ Human Resource 人力资源/人事</li>
+  <li><code class="highlighter-rouge">Ml</code> ~ Mailling-list 邮件列表通告</li>
+  <li><code class="highlighter-rouge">SOP</code> ~ Standard Operating Procedure 标准操作流程</li>
+  <li><code class="highlighter-rouge">BGM</code> ~ Background Music 背景音乐</li>
+  <li><code class="highlighter-rouge">Hb</code> ~ Handbook 手册</li>
+  <li><code class="highlighter-rouge">Doc</code> ~ Document 文档</li>
+  <li><code class="highlighter-rouge">Docs</code> ~ Google Docs 谷歌在线共享文档</li>
+  <li><code class="highlighter-rouge">Idx</code> ~ Index 索引</li>
+  <li><code class="highlighter-rouge">Info</code> ~ Infomation 资料(注意和索引类文档性质上的区别)</li>
+  <li><code class="highlighter-rouge">Rec</code> ~ Record 录音</li>
+  <li><code class="highlighter-rouge">Rep</code> ~ Report 报告</li>
+  <li><code class="highlighter-rouge">Res</code> ~ Resource 资源</li>
+  <li><code class="highlighter-rouge">Ref</code> ~ Reference 参考（资料）</li>
+  <li><code class="highlighter-rouge">Tep</code> ~ Template 模板</li>
+  <li><code class="highlighter-rouge">Del</code> ~ Delete 删除</li>
+  <li><code class="highlighter-rouge">upd</code> ~ update 更新</li>
+  <li><code class="highlighter-rouge">KM</code> ~ Knowledge Management 知识管理</li>
+  <li><code class="highlighter-rouge">LM</code> ~ LogMeeting 会议纪要</li>
+  <li><code class="highlighter-rouge">wt</code> ~ worktile</li>
+  <li><code class="highlighter-rouge">4</code> ~ for</li>
+  <li><code class="highlighter-rouge">2</code> ~ to</li>
+</ul>
+
+<h2 id="section-2">命名规则</h2>
+
+<h3 id="section-3">常规命名结构：文档属性-类别/项目/使用者</h3>
+
+<ol>
+  <li>先定位文档属性，比如是 <code class="highlighter-rouge">idx</code> <code class="highlighter-rouge">info</code> <code class="highlighter-rouge">Hb</code> 还是 <code class="highlighter-rouge">Log</code>（这其实在引人思考所建内容的整体结构和关联）。
+    <ul>
+      <li><code class="highlighter-rouge">Hb</code> 里一般会链接到 <code class="highlighter-rouge">Idx</code> <code class="highlighter-rouge">Info</code> 等以便进一步参考调用的内容</li>
+      <li><code class="highlighter-rouge">Idx</code> ，注意这是<strong>索引索引索引！</strong>里面一般会有较多链接，尤其是 <code class="highlighter-rouge">info</code> 文档链接</li>
+      <li><code class="highlighter-rouge">Info</code> 一般里头是可直接复制使用或者不需再进一步点击的内容</li>
+      <li><code class="highlighter-rouge">Log</code> 沟通纪要、会议备忘等</li>
+    </ul>
+  </li>
+</ol>
+
+<p>如此，在一个目录下浏览时，文档按类似树状的结构展开，比如 <code class="highlighter-rouge">Hb</code> ：</p>
+
+<ul>
+  <li>HbDoc ~ 文档创建规约</li>
+  <li>HbDocName ~ 文档命名规约</li>
+  <li>HbMentor ~ 教练手册</li>
+  <li>HbPM ~ 项目经理手册</li>
+</ul>
+
+<p>一些系列文档不前缀文档属性代号也 OK 。比如我们课程每周都有微信群答疑，答疑记录文档，新手一般会延续中文文档命名习惯（ <code class="highlighter-rouge">0w 微信群答疑纪要</code> ）以 <code class="highlighter-rouge">Log0wQA</code>命名，但更合适的应该是<code class="highlighter-rouge">LogQAw0</code>。若此，在同一个目录下，可以快速定位这个系列文档下的所有内容。若目录下，并无其它 QA 系列文档的需求，根据简明原则，还可直接命名为 <code class="highlighter-rouge">QAw0</code>。</p>
+
+<ol>
+  <li>
+    <p>根据具体情境和想达成的效果确定单词的先后顺序。比如</p>
+
+    <ul>
+      <li>HbBrandOM</li>
+      <li>HbOMBrand</li>
+    </ul>
+
+    <p>两种命名方式其实都可以让人一眼识别这是 OM 品牌使用手册，用哪种命名方式主要看这个文档在什么情境下，以及自己想干嘛：</p>
+
+    <ul>
+      <li>若在集团的 wiki 下，希望兄弟公司在同一个事务上有更多的借鉴，就以前者命名</li>
+      <li>若各公司相对独立，希望每个子公司的同事更方便找到本公司的内容，以后者命名更合适</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="section-4">版本号标注规则</h3>
+
+<p>手册等反复修改使用的文档，版本号采用<a href="http://semver.org/lang/zh-CN/">语义化版本控制</a>的命名方式。但其实基于 git 进行文档管理后，不标注版本号也无妨。</p>
+
+<p>会议纪要等基于时间的文档，以日期进行命名，比如：</p>
+
+<ul>
+  <li>LM2015Q3 ~ 2015年第3季度季会纪要</li>
+  <li>LMApp151203 ~ 2015年12月3日产品会议纪要
+    <ul>
+      <li>如果经常开产品会或其它某个主题的会，就把主题放日期前形成一个单独序列</li>
+      <li>如果是临时的主题，就放在日期后面，一目了然以便日后查找，比如 LM151205Community ~ 2015年12月5日社群运营讨论纪要</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="tips">Tips</h2>
+
+<p>若刚接触这样的命名规约，难免不知所措。不必担心，多看别人怎么命名,根据命名猜测文档内容并验证，慢慢就轻车熟路啦，比如可以看</p>
+
+<ul>
+  <li><a href="http://zoomquiet.io/">@ZoomQuiet 大妈</a> 在<a href="http://openmindclub.qiniudn.com/">七牛云</a>中共享的文件</li>
+  <li>GitHub 各 wiki 中的文档等（内部仓库，非团队成员别点啦）
+    <ul>
+      <li><a href="https://github.com/anrenmind/eopenmind.com/wiki">Home · anrenmind/eopenmind.com Wiki</a></li>
+      <li><a href="https://github.com/anrenmind/anrenmind.com/wiki">Home · anrenmind/anrenmind.com Wiki</a></li>
+      <li><a href="https://github.com/OpenMindClub/2.OMOOC.py/wiki">Home · OpenMindClub/2.OMOOC.py Wiki</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>是不是十分简明干净？</p>
+
+<p>–</p>
+
+<p>Anyway，文档命名规则没有对错之分，若单看某个文件名，队友就能明白其中所含内容，协作需要时能即时调取，这就是好规则。</p>
+
+<p>祝各位都远离「各人用词、命名习惯不一样，难以形成共识，徒增团队协作成本」的烦恼（比如俺在<a href="http://ishanshan.top/community/HbGitHubCooperate.html">《GitHub 协作五大业余姿势》</a> 提到的现象，哈哈）!</p>
+
+<h2 id="changelog">CHANGELOG</h2>
+
+<ul>
+  <li>160210 增补完善后在 Blog 发布</li>
+  <li>151220 在团队仓库创建</li>
+</ul>
+
+
+
+        <div id="disqus_container">
+            <div style="margin-bottom:20px" class="right">
+                <script type="text/javascript" charset="utf-8">
+                (function(){
+                  var _w = 86 , _h = 16;
+                  var param = {
+                    url:location.href,
+                    type:'6',
+                    count:'', /**是否显示分享数，1显示(可选)*/
+                    appkey:'', /**您申请的应用appkey,显示分享来源(可选)*/
+                    title:'', /**分享的文字内容(可选，默认为所在页面的title)*/
+                    pic:'', /**分享图片的路径(可选)*/
+                    ralateUid:'1855270953', /**关联用户的UID，分享微博会@该用户(可选)*/
+                    language:'zh_cn', /**设置语言，zh_cn|zh_tw(可选)*/
+                    rnd:new Date().valueOf()
+                  }
+                  var temp = [];
+                  for( var p in param ){
+                    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+                  }
+                //   document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+                // })()
+                </script>
+            </div>
+            <!-- <a href="#" class="comment" onclick="return false;">点击查看评论</a> -->
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES * * */
+                var disqus_shortname = 'yxblog';
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the
+              <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+            </noscript>
+        </div>
+    </div>
+
+    <!-- <div class="sidenav">
+        <iframe width="100%" height="75" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=75&fansRow=2&ptype=0&speed=0&skin=1&isTitle=0&noborder=1&isWeibo=0&isFans=0&uid=2022963904&verifier=1bb19983&colors=d6f3f7,ffffff,666666,0082cb,ecfbfd&dpc=1"></iframe>
+    </div> -->
+	
+	
+	
+
+    <div class="sidenav">
+        <h2>Community</h2>
+        <ul class="artical-list">
+        
+            <li><a href="/community/HbGitHubCooperate.html">GitHub 协作五大业余姿势</a></li>
+        
+            <li><a href="/community/HbDoc.html">协作文档撰写指南</a></li>
+        
+            <li><a href="/community/HbDocName.html">团队文档命名规约</a></li>
+        
+            <li><a href="/community/IdxActivity.html">改变我玩耍习惯的 10 场活动</a></li>
+        
+        </ul>
+
+        <h2>SelfEdu</h2>
+        <ul class="artical-list">
+        
+            <li><a href="/selfedu/NewLifeinOMC.html">入职第一天，我失眠了</a></li>
+        
+        </ul>
+
+        <h2>MurMur</h2>
+        <ul class="artical-list">
+        
+            <li><a href="/murmur/AboutMe.html">About Me</a></li>
+        
+        </ul>
+    </div>
+</div>
+
+<script src="/js/post.js" type="text/javascript"></script>
+
+    
+	
+    <script type="text/javascript">
+        $(function(){
+            $('.home-follow').click(function(e){
+                e.preventDefault();
+
+                if($('.home-contact').is(':visible')){
+                    $('.home-contact').slideUp(100);
+                }else{
+                    $('.home-contact').slideDown(100);
+                }
+            });
+        })
+    </script> 
+</body>
+</html>
