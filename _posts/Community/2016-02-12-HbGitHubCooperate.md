@@ -125,7 +125,7 @@ category: community
 
 <center>标题比正文更重要，别漏了！</center> 
 
-PS.更多创建文档的建议，见。。。
+PS.更多创建文档的建议，可以参考这个 [协作文档撰写指南](http://ishanshan.top/community/HbDoc.html)。
 
 
 ## Issue 当 BBS 来用

@@ -48,6 +48,8 @@ category: community
 + `KM` ~ Knowledge Management 知识管理
 + `LM` ~ LogMeeting 会议纪要
 + `wt` ~ worktile 
++ `w` ~ week 周
++ `d` ~ day 天
 + `4` ~ for
 + `2` ~ to 
 

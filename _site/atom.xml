@@ -4,7 +4,7 @@
    <title>ishanshan'blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2016-02-14T15:58:03+08:00</updated>
+   <updated>2016-02-15T14:40:42+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -151,7 +151,7 @@
 
 &lt;center&gt;标题比正文更重要，别漏了！&lt;/center&gt;
 
-&lt;p&gt;PS.更多创建文档的建议，见。。。&lt;/p&gt;
+&lt;p&gt;PS.更多创建文档的建议，可以参考这个 &lt;a href=&quot;http://ishanshan.top/community/HbDoc.html&quot;&gt;协作文档撰写指南&lt;/a&gt;。&lt;/p&gt;
 
 &lt;h2 id=&quot;issue--bbs-&quot;&gt;Issue 当 BBS 来用&lt;/h2&gt;
 
@@ -462,6 +462,8 @@
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;KM&lt;/code&gt; ~ Knowledge Management 知识管理&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;LM&lt;/code&gt; ~ LogMeeting 会议纪要&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;wt&lt;/code&gt; ~ worktile&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt; ~ week 周&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;d&lt;/code&gt; ~ day 天&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; ~ for&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2&lt;/code&gt; ~ to&lt;/li&gt;
 &lt;/ul&gt;
