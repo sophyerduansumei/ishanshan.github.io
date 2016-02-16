@@ -12,8 +12,8 @@ category: community
 注意：
 
 - 若不了解 GitHub 是什么，请先移步 GitHub 基础教程：
-	+ [GitHub 漫游指南 ](http://github.phodal.com/)
-	+ [TryGit: 一个交互式的 git 教程](https://try.github.io/)
+	+ 通过 [GitHub 漫游指南 By Phodal Huang](http://github.phodal.com/)
+	+ [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
 	+ [廖雪峰的 git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 	+ [Udacity 上的课程《How to Use Git and GitHub》](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - 本文所列建议主要针对非技术协作（即很少使用 `pull request` 协作）的知识管理型团队，如果你对所在团队是否是知识管理型团队无所谓，这篇文章不必往下看了;-)
@@ -221,18 +221,28 @@ Issue 目前可以自行设置 `labels` `milestone` `asignee`，每一个设置�
 
 ## 小结
 
-说了这么多，要改善大部分协作业余表现，其实转变一下思考角度就好：
+
+
+唠叨了这么多改善大部分协作业余表现的建议，其实无非几个原则：
+
+- 链接尽量简明干净，命名不使用非 ASCII 字串
+- 尽可能增加页面间的连接，不生产孤悬页面
+- Issue 尽量 close ，可复用资料放 wiki
+- 发展过程可追溯，5W1H 助追踪
+
+
+说得再简单些，转变一下思考角度就好：
 
 >多从**团队知识管理**、**经验传承**的角度思考个人如何参与协作，而非自己一时便利想咋整咋整。
 
-不过说着简单，做起来挺难的……协作三个月，我依然不时被大妈精准吐槽无地自容 눈_눈
+不过说着轻巧，做起来挺难的……协作三个月，俺依然不时被大妈精准吐槽无地自容 눈_눈
 
-欢迎看到这篇文章的你也和我分享实践经验，一起探索更多协作乐趣噻~
+Anyway，欢迎看到这篇文章的你也和我分享实践经验，一起探索更多协作乐趣噻~
 
 
 
 ## CHANGELOG 
 
 - 160212 完善配图 Blog 发布
-- 160122 在 WorkFlowy 起草
+- 160122 [在 WorkFlowy 起草](https://workflowy.com/s/ipYERU9UbH)
 
