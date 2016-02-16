@@ -6,16 +6,16 @@ category: community
 ---
 
 
-近期看到不少同伴使用 GitHub 协作，我开始理解当初 [@ZoomQuiet 大妈](http://zoomquiet.io/) 和我协作时的痛苦感受----这不顺眼那不专业，虽不至酿成大错，但实在让人浑身不自在。遂复盘自己踩坑经历（其实就是被大妈咆哮调教的血泪史）供你规避几大常见业余姿势，少走弯路，更快体会 GitHub 协作的舒爽乐趣。
+近期看到不少同伴使用 GitHub 协作，我开始理解当初 [@ZoomQuiet 大妈](http://zoomquiet.io/) 和我协作时的痛苦感受----这不顺眼那不专业，比如用中文命名、创建 wiki 却不更新 sidebar、满屏 Issue 不及时 close、Issue 通篇没有一个超链接等，虽不至酿成大错，但实在让人浑身不自在。遂复盘自己踩坑经历（其实就是被大妈咆哮调教的血泪史 T_T）供你规避几大常见业余姿势，少走弯路，更快体会 GitHub 协作的舒爽乐趣。
 
 
 注意：
 
 - 若不了解 GitHub 是什么，请先移步 GitHub 基础教程：
-	+ [电子书《Pro Git》](http://git-scm.com/book/en/v2)
+	+ [GitHub 漫游指南 ](http://github.phodal.com/)
 	+ [TryGit: 一个交互式的 git 教程](https://try.github.io/)
-	+ [Udacity 上的课程《How to Use Git and GitHub》](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 	+ [廖雪峰的 git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+	+ [Udacity 上的课程《How to Use Git and GitHub》](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - 本文所列建议主要针对非技术协作（即很少使用 `pull request` 协作）的知识管理型团队，如果你对所在团队是否是知识管理型团队无所谓，这篇文章不必往下看了;-)
 
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/LogoGitHub1.jpg?imageView2/2/w/340)
@@ -135,7 +135,7 @@ PS.更多创建文档的建议，可以参考这个 [协作文档撰写指南](h
 
 但在 GitHub 仓库进行的沟通一般是团队协作，协作是为推进事情不是闲扯，请转换成 `push-style`：
 
-  - 对要讨论的内容，逐一回复观点，比如
+  - 对要讨论的内容，延续 [mailing-list 的礼仪](https://zh.opensuse.org/index.php?title=openSUSE:%E9%83%B5%E4%BB%B6%E5%88%97%E8%A1%A8%E7%B6%B2%E8%B7%AF%E7%A6%AE%E5%84%80&variant=zh-cn#.E4.BD.BF.E7.94.A8.E5.BA.95.E9.83.A8.E5.BC.B5.E8.B2.BC.E6.88.96.E4.BA.A4.E9.8C.AF.E6.A0.BC.E5.BC.8F.E4.BE.86.E5.9B.9E.E7.AD.94) ，采用 [inline reply](https://en.wikipedia.org/wiki/Posting_style#Interleaved_style) 或 [Bottom-posting](https://en.wikipedia.org/wiki/Posting_style#Bottom-posting) 的格式逐一回复观点，比如
 
   ![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH010.jpg)
   
@@ -225,7 +225,7 @@ Issue 目前可以自行设置 `labels` `milestone` `asignee`，每一个设置�
 
 >多从**团队知识管理**、**经验传承**的角度思考个人如何参与协作，而非自己一时便利想咋整咋整。
 
-不过说着简单，做起来挺难的……协作三个月，我依然不时被大妈精准吐槽无地自容 T_T
+不过说着简单，做起来挺难的……协作三个月，我依然不时被大妈精准吐槽无地自容 눈_눈
 
 欢迎看到这篇文章的你也和我分享实践经验，一起探索更多协作乐趣噻~
 

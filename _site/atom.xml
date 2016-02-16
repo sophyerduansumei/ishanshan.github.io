@@ -4,7 +4,7 @@
    <title>ishanshan'blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2016-02-15T14:40:42+08:00</updated>
+   <updated>2016-02-16T21:34:55+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -17,17 +17,17 @@
      <link href="http://beiyuu.com/community/HbGitHubCooperate.html"/>
      <updated>2016-02-12T00:00:00+08:00</updated>
      <id>http://beiyuu.com/community/HbGitHubCooperate</id>
-     <content type="html">&lt;p&gt;近期看到不少同伴使用 GitHub 协作，我开始理解当初 &lt;a href=&quot;http://zoomquiet.io/&quot;&gt;@ZoomQuiet 大妈&lt;/a&gt; 和我协作时的痛苦感受—-这不顺眼那不专业，虽不至酿成大错，但实在让人浑身不自在。遂复盘自己踩坑经历（其实就是被大妈咆哮调教的血泪史）供你规避几大常见业余姿势，少走弯路，更快体会 GitHub 协作的舒爽乐趣。&lt;/p&gt;
+     <content type="html">&lt;p&gt;近期看到不少同伴使用 GitHub 协作，我开始理解当初 &lt;a href=&quot;http://zoomquiet.io/&quot;&gt;@ZoomQuiet 大妈&lt;/a&gt; 和我协作时的痛苦感受—-这不顺眼那不专业，比如用中文命名、创建 wiki 却不更新 sidebar、满屏 Issue 不及时 close、Issue 通篇没有一个超链接等，虽不至酿成大错，但实在让人浑身不自在。遂复盘自己踩坑经历（其实就是被大妈咆哮调教的血泪史 T_T）供你规避几大常见业余姿势，少走弯路，更快体会 GitHub 协作的舒爽乐趣。&lt;/p&gt;
 
 &lt;p&gt;注意：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;若不了解 GitHub 是什么，请先移步 GitHub 基础教程：
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://git-scm.com/book/en/v2&quot;&gt;电子书《Pro Git》&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://github.phodal.com/&quot;&gt;GitHub 漫游指南 &lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://try.github.io/&quot;&gt;TryGit: 一个交互式的 git 教程&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.udacity.com/course/how-to-use-git-and-github--ud775&quot;&gt;Udacity 上的课程《How to Use Git and GitHub》&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000&quot;&gt;廖雪峰的 git 教程&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.udacity.com/course/how-to-use-git-and-github--ud775&quot;&gt;Udacity 上的课程《How to Use Git and GitHub》&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;本文所列建议主要针对非技术协作（即很少使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;pull request&lt;/code&gt; 协作）的知识管理型团队，如果你对所在团队是否是知识管理型团队无所谓，这篇文章不必往下看了;-)&lt;/li&gt;
@@ -160,7 +160,7 @@
 &lt;p&gt;但在 GitHub 仓库进行的沟通一般是团队协作，协作是为推进事情不是闲扯，请转换成 &lt;code class=&quot;highlighter-rouge&quot;&gt;push-style&lt;/code&gt;：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;对要讨论的内容，逐一回复观点，比如&lt;/li&gt;
+  &lt;li&gt;对要讨论的内容，延续 &lt;a href=&quot;https://zh.opensuse.org/index.php?title=openSUSE:%E9%83%B5%E4%BB%B6%E5%88%97%E8%A1%A8%E7%B6%B2%E8%B7%AF%E7%A6%AE%E5%84%80&amp;amp;variant=zh-cn#.E4.BD.BF.E7.94.A8.E5.BA.95.E9.83.A8.E5.BC.B5.E8.B2.BC.E6.88.96.E4.BA.A4.E9.8C.AF.E6.A0.BC.E5.BC.8F.E4.BE.86.E5.9B.9E.E7.AD.94&quot;&gt;mailing-list 的礼仪&lt;/a&gt; ，采用 &lt;a href=&quot;https://en.wikipedia.org/wiki/Posting_style#Interleaved_style&quot;&gt;inline reply&lt;/a&gt; 或 &lt;a href=&quot;https://en.wikipedia.org/wiki/Posting_style#Bottom-posting&quot;&gt;Bottom-posting&lt;/a&gt; 的格式逐一回复观点，比如&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/HbGH010.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -263,7 +263,7 @@
   &lt;p&gt;多从&lt;strong&gt;团队知识管理&lt;/strong&gt;、&lt;strong&gt;经验传承&lt;/strong&gt;的角度思考个人如何参与协作，而非自己一时便利想咋整咋整。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;不过说着简单，做起来挺难的……协作三个月，我依然不时被大妈精准吐槽无地自容 T_T&lt;/p&gt;
+&lt;p&gt;不过说着简单，做起来挺难的……协作三个月，我依然不时被大妈精准吐槽无地自容 눈_눈&lt;/p&gt;
 
 &lt;p&gt;欢迎看到这篇文章的你也和我分享实践经验，一起探索更多协作乐趣噻~&lt;/p&gt;
 
@@ -341,7 +341,7 @@
     &lt;ul&gt;
       &lt;li&gt;背景，也就是为什么会有这次沟通&lt;/li&gt;
       &lt;li&gt;参与者，以便其他看到文档的人知晓这些是谁达成的共识，了解谁（不在现场）不一定知晓&lt;/li&gt;
-      &lt;li&gt;沟通发生的时间地点，以便知晓是在哪里发生的&lt;/li&gt;
+      &lt;li&gt;沟通发生的时间时长地点，以便知晓是在哪里发生的&lt;/li&gt;
       &lt;li&gt;录音链接（我们公司沟通录音一般上传到公用百度云账号）&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -402,6 +402,7 @@
   &lt;li&gt;160211 完善后在 Blog 发布&lt;/li&gt;
   &lt;li&gt;160110 重构&lt;/li&gt;
   &lt;li&gt;151129 在团队仓库创建一稿&lt;/li&gt;
+  &lt;li&gt;151126 在 WorkFlowy 中创建&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
