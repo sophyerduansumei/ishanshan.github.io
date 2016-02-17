@@ -12,7 +12,7 @@ category: community
 注意：
 
 - 若不了解 GitHub 是什么，请先移步 GitHub 基础教程：
-	+ 通过 [GitHub 漫游指南 By Phodal Huang](http://github.phodal.com/)
+	+ [GitHub 漫游指南 By Phodal Huang](http://github.phodal.com/)
 	+ [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
 	+ [廖雪峰的 git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 	+ [Udacity 上的课程《How to Use Git and GitHub》](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
