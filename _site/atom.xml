@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-   <title>ishanshan'blog</title>
+   <title>ishanshan's blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2016-02-17T18:31:39+08:00</updated>
+   <updated>2016-02-17T21:57:51+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -846,7 +846,7 @@
 
 &lt;p&gt;–&lt;/p&gt;
 
-&lt;p&gt;Email:ishanshan.huang@gmail.com&lt;/p&gt;
+&lt;p&gt;Email:ishanshan.huang#gmail.com （把 # 换成 @）&lt;/p&gt;
 
 &lt;p&gt;欢迎指教;-)&lt;/p&gt;
 
