@@ -25,34 +25,7 @@ category: community
 
 ## 常用缩写
 
-既然以英文命名，缩写不可避免。团队常用缩写如下（注意大小写）：
-
-+ `WIP` ~ Work In Press 任务进行中
-+ `PR` ~ Public Relationship 公关稿
-+ `HR` ~ Human Resource 人力资源/人事
-+ `Ml` ~ Mailling-list 邮件列表通告
-+ `SOP` ~ Standard Operating Procedure 标准操作流程
-+ `BGM` ~ Background Music 背景音乐
-+ `Hb` ~ Handbook 手册
-+ `Doc` ~ Document 文档
-+ `Docs` ~ Google Docs 谷歌在线共享文档
-+ `Idx` ~ Index 索引
-+ `Info` ~ Infomation 资料(注意和索引类文档性质上的区别)
-+ `Rec` ~ Record 录音
-+ `Rep` ~ Report 报告
-+ `Res` ~ Resource 资源
-+ `Ref` ~ Reference 参考（资料）
-+ `Tep` ~ Template 模板
-+ `Del` ~ Delete 删除
-+ `upd` ~ update 更新
-+ `KM` ~ Knowledge Management 知识管理
-+ `LM` ~ LogMeeting 会议纪要
-+ `wt` ~ worktile 
-+ `w` ~ week 周
-+ `d` ~ day 天
-+ `4` ~ for
-+ `2` ~ to 
-
+既然以英文命名，缩写不可避免，达成共识才方便协作，特此约定一组 [团队常用缩写](https://github.com/OpenMindClub/KnowledgeManager/wiki/HbShortRule)。
 
 
 
