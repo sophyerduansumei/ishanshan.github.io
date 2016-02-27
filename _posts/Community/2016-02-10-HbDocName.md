@@ -25,7 +25,7 @@ category: community
 
 ## 常用缩写
 
-既然以英文命名，缩写不可避免，达成共识才方便协作，特此约定一组 [团队常用缩写](https://github.com/OpenMindClub/KnowledgeManager/wiki/HbShortRule)。
+既然以英文命名，缩写不可避免，达成共识才方便协作，特此约定一组 [团队常用缩写](https://github.com/OpenMindClub/Share/wiki/HbShortRule)。
 
 
 
