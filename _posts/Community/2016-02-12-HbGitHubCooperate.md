@@ -125,8 +125,7 @@ category: community
 
 <center>标题比正文更重要，别漏了！</center> 
 
-PS.更多创建文档的建议，可以参考这个 [协作文档撰写指南](http://ishanshan.top/community/HbDoc.html)。
-
+PS.更多创建文档的建议，可以参考这个 [协作文档撰写指南](https://github.com/OpenMindClub/Share/wiki/HbDoc) 。
 
 ## Issue 当 BBS 来用
 
@@ -139,7 +138,7 @@ PS.更多创建文档的建议，可以参考这个 [协作文档撰写指南](h
 
   ![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH010.jpg)
   
-  - 除了 asignee，其他人也自觉主动维护 Issue ，把已形成的共识及时更新到首个 comment 中，**以便其他打开这个 Issue 的同事可以快速知晓进展**
+  - 除了 assignee，其他人也自觉主动维护 Issue ，把已形成的共识及时更新到首个 comment 中，**以便其他打开这个 Issue 的同事可以快速知晓进展**
   - 若 Issue 完成，及时 close ，让人进入 Issues 主界面即可及时知晓目前正在进行的 Issue。为啥？谨记大妈督导：
   
 >Issue 是过程讨论，尽量消灭 Issue 
@@ -162,10 +161,10 @@ PS.更多创建文档的建议，可以参考这个 [协作文档撰写指南](h
  
 多提一句，Issue close 后，若再需开启，还是可以 reopen 的，当然最好在 reopen 时说明原因，以便其他看到 Issue 的同伴迅速进入状态。
 
-## 发 Issue 不加 labels/milestone/asignee
+## 发 Issue 不加 labels/milestone/assignee
 
 
-Issue 目前可以自行设置 `labels` `milestone` `asignee`，每一个设置其实都相当于一个搜索入口/分类维度。也就意味着，你可以至少按 3+1 个维度来划分你的 issue：
+Issue 目前可以自行设置 `labels` `milestone` `assignee`，每一个设置其实都相当于一个搜索入口/分类维度。也就意味着，你可以至少按 3+1 个维度来划分你的 issue：
 
 ### labels
 
@@ -187,21 +186,21 @@ Issue 目前可以自行设置 `labels` `milestone` `asignee`，每一个设置�
      
    
    
-### asignee
+### assignee
 
 在团队协作中，
 
 >- Issue 永远只是暂时性任务的追踪/提醒/讨论!
 - Issue 是过程讨论，尽量消灭 Issue !
 
-若此，asignee 便是牵头推进此 Issue 至 close、消灭该 Issue 的直接负责人。设定 asignee 后，在 Issue 主界面便又多一个维度了解目前团队进展：
+若此，assignee 便是牵头推进此 Issue 至 close、消灭该 Issue 的直接负责人。设定 assignee 后，在 Issue 主界面便又多一个维度了解目前团队进展：
 
 - 目前没有 close 的 Issue 都主要是谁在推进
-- 也可根据 asignee 筛选查看，便可对某人负责的 issue 情况一目了然，比如有多少没 close，close 了哪些，结果如何。
+- 也可根据 assignee 筛选查看，便可对某人负责的 issue 情况一目了然，比如有多少没 close，close 了哪些，结果如何。
   
 ---
 
-明了这些，现在你应该能理解为啥团队协作发 Issue 若不设定 labels/milestone/asignee 这三项十恶不赦了吧？
+明了这些，现在你应该能理解为啥团队协作发 Issue 若不设定 labels/milestone/assignee 这三项十恶不赦了吧？
   
 什么都不设定，就相当于切断了这个 Issue 大部分搜索接口。 Issue 越积越多，团队更新换代后，虽有全文检索功能，但不知道有哪些关键词的新人，如何快速了解/获取自己想要的信息？难道又回到那个需要什么就在群里吼的局面？
 
@@ -209,7 +208,7 @@ Issue 目前可以自行设置 `labels` `milestone` `asignee`，每一个设置�
 这也是我越发难以容忍国内一些项目管理平台话题板块的原因：
  
  - 不可设标签
- - 不能 asign 某人
+ - 不能分配给某人
  - 不能关闭
 
 尤其处于一个高速发展却没全员形成良好的知识管理契约的团队，无论该变成文档的还是转换为任务的内容，都发在话题板块里，很快积攒几百条话题不说，更新异常迅速，使用的术语体系还不一样，导致搜索非常不便，难以快速了解目前进展、找到想要的内容。
