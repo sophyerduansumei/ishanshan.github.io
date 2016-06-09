@@ -208,7 +208,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 上期【Equip Yourself in Web2.0  不同以「网」工作坊】策划着力点在信息泛滥的时代如何有效获取信息助力行动，依照信息处理的流程，我和团队接着设计了学习高效整理组织信息的工作坊----通过思维导图整理思路。
 
-地点依然在 [@706 青年空间](http://weixin.sogou.com/gzh?openid=oIWsFtwKBBPDGq9g0zjpv3YVxaqw&ext=lA5I5al3X8DeCWhDAU_vjN7EgCiuRRbvaRRzMCH3uF-ryCUogjrvPoBqjcoohwtp) ，同样热烈的讨论，有一个小组甚至用当天提到的方法，现场把【不同以「网」工作坊】下一期活动都策划好了----如何成为学习促进者。只可惜随即进入暑假，团队成员散在各地，我也有心的发展发现，逐步退出了这个系列工作坊的筹备。
+地点依然在 [@706 青年空间](http://weixin.sogou.com/gzh?openid=oIWsFtwKBBPDGq9g0zjpv3YVxaqw&ext=lA5I5al3X8DeCWhDAU_vjN7EgCiuRRbvaRRzMCH3uF-ryCUogjrvPoBqjcoohwtp) ，同样热烈的讨论，有一个小组甚至用当天提到的方法，现场把【不同以「网」工作坊】下一期活动都策划好了----如何成为学习促进者。只可惜随即进入暑假，团队成员散在各地，我也有新的发展，逐步退出了这个系列工作坊的筹备。
 
 PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原来在这场活动上见过，怪不得似曾相识，哈哈！
 
@@ -224,9 +224,9 @@ PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原�
 
 ### 后记
 
-2013 年寒假，在网易公开课实习的 @小煜 往 [CAPE](http://hicape.com/join-cape/) Google Group 中发布了 [网易乐学汇筹办团队招募](http://open.163.com/lxh#xiaoyuanxing)帖，一下吸引了正跃跃欲试以[讲座控](http://weixin.sogou.com/gzh?openid=oIWsFtwKUZKH-HyAOROhGQ-LNtsY&ext=lA5I5al3X8BrtVZTisgs7Isov-m7yCOOkjsCljU2PdgTNsa2caOFJ86LUSxlGKuw)名义筹办线下活动的我。
+2013 年寒假，在网易公开课实习的 @小昱 往 [CAPE](http://hicape.com/join-cape/) Google Group 中发布了 [网易乐学汇筹办团队招募](http://open.163.com/lxh#xiaoyuanxing)帖，一下吸引了正跃跃欲试以[讲座控](http://weixin.sogou.com/gzh?openid=oIWsFtwKUZKH-HyAOROhGQ-LNtsY&ext=lA5I5al3X8BrtVZTisgs7Isov-m7yCOOkjsCljU2PdgTNsa2caOFJ86LUSxlGKuw)名义筹办线下活动的我。
 
-估计是由于前两年在北京参与了足够多的青年活动，已对怎样的学习活动让人难忘略有想法，虽然这是我和团队成员第一次筹办正式的线下活动，但反馈出奇的好：我们在活动逻辑上费了不少功夫----不是先考虑能找到哪些讲者，让他们挨个上去讲大伙儿在下面听就完事儿，而是先考虑清楚我们希望参与者通过这场活动收获什么，如何能在有限的线下互动时间内让大家自然习得我们希望他们收获的，再根据拆解的子主题设计学习环节----这在「一对多单向输出式」活动泛滥的彼时很稀缺。
+估计是由于前两年在北京参与了足够多的青年活动，已对怎样的学习活动让人难忘略有了解，虽然这是我和团队成员第一次筹办正式的线下活动，但反馈出奇的好：我们在活动逻辑上费了不少功夫----不是先考虑能找到哪些讲者，让他们挨个上去讲大伙儿在下面听就完事儿，而是先考虑清楚我们希望参与者通过这场活动收获什么，如何能在有限的线下互动时间内让大家自然习得我们希望他们收获的，再根据拆解的子主题设计学习环节----这在彼时「一对多单向输出式」活动泛滥的大环境下很稀缺。
 
 更意外的是，由于活动做得好，我作为申办人，还在这批申办网易乐学汇的团队中获得了【[乐学汇十大优秀校园大使](http://open.163.com/lxh#xiaoyuanxing)】称号XD 团队也备受鼓舞，决定将这个【不同以「网」工作坊】变成系列活动，继续筹办不同的主题，让更多人在开放教育时代受益。 
 
