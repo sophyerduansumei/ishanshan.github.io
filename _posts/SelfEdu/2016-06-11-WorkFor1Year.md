@@ -7,7 +7,7 @@ category: selfedu
 
 
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/SE160611.JPG)
-<center>2012 年秋摄于北京植物园</center> 
+<center>2012 年夏雨后摄于北京植物园</center> 
 
 
 ## 一
