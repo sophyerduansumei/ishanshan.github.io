@@ -6,7 +6,7 @@ description: 你的思量说尽，他知你忧，知你知与不知，这时候�
 
 ---
 
-<center>![](http://openmindclub.qiniudn.com/ishanshan/blog/Letter2.jpg)</center> 
+![](http://openmindclub.qiniudn.com/ishanshan/blog/Letter2.jpg)
 
 >你和老板相处有什么秘诀？为什么你可以 hold 住他？
 
