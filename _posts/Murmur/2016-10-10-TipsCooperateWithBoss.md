@@ -20,7 +20,7 @@ description: 你的思量说尽，他知你忧，知你知与不知，这时候�
 
 邮件于我不可或缺。很庆幸六年前刚进大一，自己就注册了个人 Gmail，常邮件和别人讨论共同关注的议题、远程协作推进项目。从此安然坐在自己舒适的环境、理清思路再和别人互动，不必担心稍不留神，讨论组里想展开的话题被时间线冲得支离破碎；也不用担心，换个设备记录漏失再难追溯。
 
-至于怎样用邮件优雅地和别人沟通，网上教程良多，不再赘述。推荐 [电邮靠谱指南 | GDG Livin ZhuHai Life;-)](http://blog.zhgdg.org/2014-02/email-kaopulity-guider/) 。
+至于怎样用邮件优雅地和别人沟通，网上教程良多，不再赘述。推荐 [电邮靠谱指南 | GDG Livin ZhuHai Life](http://blog.zhgdg.org/2014-02/email-kaopulity-guider/) 。
 
 
 
