@@ -31,6 +31,10 @@ category: community
 
 ## 命名规则
 
+在同一路径下，文件一般可以根据文件名自动排序，进而呈现出树状结构，方便其他伙伴查找。
+
+所以，基本的命名原则就是，按你想要呈现的树状结构来命名。
+
 ### 常规命名结构：文档属性-类别/项目/使用者
 
 
@@ -77,9 +81,8 @@ category: community
 
 -  [@ZoomQuiet 大妈](http://zoomquiet.io/) 在[七牛云](http://openmindclub.qiniudn.com/)中共享的文件
 - GitHub 各 wiki 中的文档等（内部仓库，非团队成员别点啦）
-    - [Home · anrenmind/eopenmind.com Wiki](https://github.com/anrenmind/eopenmind.com/wiki)
-    - [Home · anrenmind/anrenmind.com Wiki](https://github.com/anrenmind/anrenmind.com/wiki)
-    - [Home · OpenMindClub/2.OMOOC.py Wiki](https://github.com/OpenMindClub/2.OMOOC.py/wiki)
+    - [Home · OpenMindClub/blog.openmindclub.com Wiki](https://github.com/OpenMindClub/blog.openmindclub.com/wiki)
+    - [Home · OpenMindClub/OMOOC.DeepLearning.OC Wiki](https://github.com/OpenMindClub/OMOOC.DeepLearning.OC/wiki)
 
 是不是十分简明干净？
 
