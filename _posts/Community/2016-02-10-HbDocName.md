@@ -60,7 +60,7 @@ category: community
 	
 	- HbAdminSystemOMCApp VS HbAdminSystem
 	
-		命名偏上位层次范畴(superordinate categories)时，注意纠正一下。比如今年团队只上线了一个产品的管理后台，看到团队 wiki 中 `HbAdminSystem` 文档，谁都知道是这个产品的管理后台使用指南。但如果明年又上线一款产品的管理后台，这个文档就不得不改名让大家更易识别。
+		命名偏上位层次范畴(superordinate categories)时，建议修正一下标注更明确。比如今年团队只上线了一个产品的管理后台，看到团队 wiki 中 `HbAdminSystem` 文档，谁都知道是这个产品的管理后台使用指南。但如果明年又上线一款产品的管理后台，这个文档就不得不改名让大家更易识别。
 		
 		不如一开始就直接清晰命名 `HbOMCAppAdminSystem`，或 `HbAdminSystemOMCApp` 。
 
