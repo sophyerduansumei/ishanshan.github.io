@@ -197,7 +197,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 ---
 
-PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/181f4657.emlx>
+PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/181f4657.emlx>
 
 ## CHANGELOG 
 
