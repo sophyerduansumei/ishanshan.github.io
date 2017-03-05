@@ -145,7 +145,9 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 ![单个角色检查清单图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage3.gif)
 
-再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。
+再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。比如：
+
+![ WorkFlowy 统计动图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage1.gif)
 
 不过，若非有类似上述的特定目的，我几乎不用标签，一直没有用标签的习惯。且标签是云状结构，不符合人脑工作特点。详见 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN) 这篇被引用 330 次的论文 [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ，或阳老在 [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html) 的解读：
 
@@ -179,7 +181,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 
 
-时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改良 WorkFlowy 增加写文章、插图等功能开发了一款应用。 
+时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改造 WorkFlowy 增加写文章、插图等功能开发了一款应用。 
 
 对此我只能笑笑，莫能强求。回到文初，输出可分成卡片、文件、项目三个层级，各层级有各自特点，也有各自匹配的工具，何必用卡片工具输出完整文章？
 
@@ -193,9 +195,13 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 工具是辅助，输出作品才是目的。路漫漫其修远，愿你我都能找到各情境泰然处之之势 :)
 
+---
+
+PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: https://workflowy.com/invite/181f4657.emlx
 
 ## CHANGELOG 
 
+- 170302 增补注册邀请链接
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
 - 170212 完善使用心得部分
