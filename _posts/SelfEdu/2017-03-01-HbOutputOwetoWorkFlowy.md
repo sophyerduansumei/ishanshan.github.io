@@ -12,9 +12,9 @@ description: 工具是辅助，输出作品才是目的。
 
 ![工具探索图](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWayOfKM.jpeg)
 
-期间经历学业+实习+志愿工作多管齐下、完成头疼的毕业设计、加入高认知负荷的创业公司，每个阶段难点不同，但 WorkFlowy 一直配合到位，助我顺利通关。我越发好奇，到底为什么，这个小工具可以让我一直需要它？
+期间经历学业+实习+志愿工作多管齐下、完成头疼的毕业设计、加入高认知负荷的创业公司，每个阶段难点不同，但 WorkFlowy 一直配合到位，助我过关斩将。我越发好奇，到底为什么，这个小工具可以让我一直需要它？
 
-直到去年三月，阳老在[一次答疑时](http://mp.weixin.qq.com/s/j6fqcvzER6gv1JnPBqnYkA)提出：
+直到去年三月，阳志平先生在[一次答疑时](http://mp.weixin.qq.com/s/j6fqcvzER6gv1JnPBqnYkA)提出：
 
 **知识创造，可以分成三个层级：卡片、文件到项目这三个层级。**
 
@@ -34,7 +34,7 @@ description: 工具是辅助，输出作品才是目的。
 
 ## 卡片工具怎么选
 
-**卡片虽叫卡片，形式并非必须方片。**卡片层级，异在内容碎片，重在方便整合以输出文件层级甚至更高层级作品。选择卡片工具，我有以下偏好：
+**卡片虽叫卡片，形式并非必须方片。**卡片层级，异在内容碎片，重在方便整合以输出文件层级甚至更高层级作品。如何选择卡片工具，我有以下偏好：
 
 其一，**为输出而设计，而非存储**。啥叫为存储而设？看某某笔记就知道了：可以方便地接收来自各渠道的信息，存起来，久而久之，难逃储物间命运，越发臃肿杂乱。为输出而设，则不仅能友好创作，还需叫人没企图导入文章或文件。
 
@@ -49,7 +49,7 @@ description: 工具是辅助，输出作品才是目的。
 
 ## WorkFlowy 助力输入输出
 
-如果你还没用过 WorkFlowy ，先去 <https://workflowy.com/demo/embed/ 体验> 3 分钟。
+如果你还没用过 WorkFlowy ，先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
 
 
 
@@ -58,7 +58,7 @@ description: 工具是辅助，输出作品才是目的。
 
 初见 WorkFlowy ，有人以为这是思维导图软件，有人当作 TODO List，你呢？
 
-不管怎样，WorkFlowy 基础功能虽简，却不失为可供性极强的容器，应用场景无数。一如宜人的公园从不划死园区功用，只恰到好处地布上设施，却叫附近居民都能找到乐意停留的角落。
+不管怎样，WorkFlowy 基础功能虽简，却不失为可供性（[Affordance](https://en.wikipedia.org/wiki/Affordance)）极强的容器，应用场景无数。一如宜人的公园从不划死园区功用，只恰到好处地布上设施，却叫附近居民都能找到乐意停留的角落。
 
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWorkflowyUsage.png)
 
@@ -145,9 +145,13 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 ![单个角色检查清单图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage3.gif)
 
-再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。
 
-不过，若非有类似上述的特定目的，我几乎不用标签，一直没有用标签的习惯。且标签是云状结构，不符合人脑工作特点。详见 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN) 这篇被引用 330 次的论文 [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ，或阳老在 [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html) 的解读：
+再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。比如：
+
+![ WorkFlowy 统计动图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage1.gif)
+
+
+不过，若非有类似上述的特定目的，我几乎不用标签，一直没有用标签的习惯。且标签是云状结构，不符合人脑工作特点。详见 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN) 这篇被引用 330 次的论文 [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ，或阳志平先生在 [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html) 的解读：
 
 
 
@@ -171,7 +175,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 ### 经常点进、退出节点
 
-不少朋友用 WorkFlowy 时，常进入某个节点，以便保持界面清爽。这就不可避免退出节点再进入另一节点，而这其实特别占用工作记忆——你得不停思考自己要找的东西在哪个层级，进入不对还得退出来重新再来，不出五回，就把自己弄晕，尤其节点较深、需要切换的节点较多时。
+不少朋友用 WorkFlowy 时，常进入某个节点，以便保持界面清爽。这就不可避免退出节点再进入另一节点，而这其实特别占用工作记忆（[working memory](https://en.wikipedia.org/wiki/Working_memory)）——你得不停思考自己要找的东西在哪个层级，进入不对还得退出来重新再来，不出五回，就把自己弄晕，尤其节点较深、需要切换的节点较多时。
 
 所以我一般**保持全局视图**。要看某个节点时展开就好，毕竟视窗就那么点，也看不到太多干扰，还方便上下滚动屏幕，查看或拖动节点。
 
@@ -179,7 +183,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 
 
-时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改良 WorkFlowy 增加写文章、插图等功能开发了一款应用。 
+时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改造 WorkFlowy 增加写文章、插图等功能开发了一款应用。 
 
 对此我只能笑笑，莫能强求。回到文初，输出可分成卡片、文件、项目三个层级，各层级有各自特点，也有各自匹配的工具，何必用卡片工具输出完整文章？
 
@@ -194,8 +198,14 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 工具是辅助，输出作品才是目的。路漫漫其修远，愿你我都能找到各情境泰然处之之势 :)
 
 
+---
+
+
+PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/181f4657.emlx>
+
 ## CHANGELOG 
 
+- 170302 增补注册邀请链接
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
 - 170212 完善使用心得部分
