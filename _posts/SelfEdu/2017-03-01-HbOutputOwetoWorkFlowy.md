@@ -12,7 +12,7 @@ description: 工具是辅助，输出作品才是目的。
 
 ![工具探索图](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWayOfKM.jpeg)
 
-期间经历学业+实习+志愿工作多管齐下、完成头疼的毕业设计、加入高认知负荷的创业公司，每个阶段难点不同，但 WorkFlowy 一直配合到位，助我过关斩将。我越发好奇，到底为什么，这个小工具可以让我一直需要它？
+期间经历学业+实习+志愿工作多管齐下、完成头疼的毕业设计、加入高认知负荷的创业公司，每个阶段难点不同，但 WorkFlowy 一直配合到位，助我过关斩将。我越发好奇，到底为什么，这个小工具可以叫我一直需要它？
 
 直到去年三月，阳志平先生在[一次答疑时](http://mp.weixin.qq.com/s/j6fqcvzER6gv1JnPBqnYkA)提出：
 
