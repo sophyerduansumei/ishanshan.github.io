@@ -2,7 +2,7 @@
 layout: post
 title: 卡片助力输入输出，工具我选 WorkFlowy
 category: selfedu
-description: 工具是辅助，输出作品才是目标。
+description: 工具是辅助，输出作品才是目的。
 ---
  
 
@@ -145,10 +145,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 ![单个角色检查清单图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage3.gif)
 
-再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。比如：
-
-![ WorkFlowy 统计动图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage1.gif)
-
+再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。
 
 不过，若非有类似上述的特定目的，我几乎不用标签，一直没有用标签的习惯。且标签是云状结构，不符合人脑工作特点。详见 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN) 这篇被引用 330 次的论文 [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ，或阳老在 [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html) 的解读：
 
@@ -188,13 +185,13 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 我一般只把 WorkFlowy 用于卡片层级，善用拖动和缩进，随时积累碎片想法；文件层级的输出，则转移到适合文件创作的界面。比如文章，会在 WorkFlowy 中梳理基本思路，export 到 MarkDown  编辑器中继续编辑，再通过 GitHub 保存或发布，比如本文，亦是[如此](https://workflowy.com/s/CO_N.1fTBLlXq06)  ，当然，过程会随时翻看 [已有相关卡片](https://workflowy.com/s/CO_N.zBGt7Rxnwa) 。
 
-项目层级亦有相应工具和工作流，咱们下次再聊 ;-)
+项目层级亦有章法，对应工具和工作流，咱们下次再聊 ;-)
 
 
 ## 小结
 
 
-工具是辅助，输出作品才是目标。路漫漫其修远，愿你我都能找到各情境泰然处之之势 :)
+工具是辅助，输出作品才是目的。路漫漫其修远，愿你我都能找到各情境泰然处之之势 :)
 
 
 ## CHANGELOG 
