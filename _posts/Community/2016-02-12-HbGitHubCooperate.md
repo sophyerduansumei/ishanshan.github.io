@@ -81,7 +81,7 @@ category: community
 - 尤其当 wiki 中的文档越来越多却没有直观的索引时，团队成员是不是更不乐意整理和复用？
 - 且更新 wiki，一般不会有自动提醒（包括邮件和关联的 slack 等信息集成服务），除非在个人消息中查看。但一般少有人从那里查看吧？消息实在太多……
 
-所以，团队中知识管理素养良好的成员，一般会用类似 GitBook 的内在顺序在 wiki 中创建 page：
+所以，团队中知识管理素养良好的成员，一般会**用类似 GitBook 的内在顺序在 wiki 中创建 page**：
 
 - 先在 Home/_sidebar.md 中设计一个合理的链接点
 - 给出文档标题和 wiki 文件名
@@ -89,11 +89,11 @@ category: community
 - 再开始编辑 文件内容
 - 并在提交前先 pull 仓库的变化，完成冲突解决后 push
 
-完成以上动作后，关联驱动这个 wiki 完成的 Issue ：
+**完成以上动作后，关联驱动这个 wiki 完成的 Issue**  ：
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH001.jpg)
 <center>除了放在 sidebar 中、和 Issue 关联，还和配套使用的文档关联以便取用</center> 
 
-这就完了吗？当然不！还需在协作界面知晓相关人员，比如在 IM 群或任务看板中抛出链接（注意运用 GitHub 锚点特性）并艾特相关伙伴，请其查看后进入下一环：
+这就完了吗？当然不！还需**在协作界面知晓相关人员，比如在 IM 群或任务看板中抛出链接（注意运用 GitHub 锚点特性）并艾特相关伙伴，请其查看后进入下一环**：
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH007.jpg)
 <center>通知对方看某个 wiki</center> 
 
