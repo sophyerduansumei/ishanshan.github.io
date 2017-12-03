@@ -50,7 +50,7 @@ description: 工具是辅助，输出作品才是目的。
 
 ## WorkFlowy 助力输入输出
 
-如果你还没用过 WorkFlowy ，请先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
+如果你还没用过 WorkFlowy ，可以先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
 
 
 
