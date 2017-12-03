@@ -13,7 +13,7 @@ category: community
 
 - 若不了解 GitHub 是什么，请先移步 GitHub 基础教程：
 	+ [GitHub Guides](https://guides.github.com/)
-	+ [GitHub Training & Guides - YouTube - YouTube](https://www.youtube.com/githubguides)
+	+ [GitHub Training & Guides - YouTube](https://www.youtube.com/githubguides)
 - 本文所列建议主要针对非技术协作的知识管理型团队，如果你对所在团队是否是知识管理型团队无所谓，这篇文章不必往下看了;-)
 
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/LogoGitHub1.jpg?imageView2/2/w/340)
@@ -109,9 +109,9 @@ category: community
 ## 写文案真的只有「文案」
 
 > 小王，你知道这些产品介绍是用于什么场合的吗？哪些是给用户直接看的，哪些给我们的合作伙伴看，哪些是给同事们看后给用户、合作伙伴介绍产品的？
-
+>
 > 我看看……呃，我也分不清楚……也没注明是谁编制的，想直接找他问都难！
-
+>
 > ……
 
 类似的情景在你团队是否经常出现？你在公共界面发现某个文档，却无从判断是否可用，用在何种场合，只能花时间自己梳理。就算找到创建人，沟通确认要花双方几分钟吧？要是你用每个文档都要问创建人，每个用文档的人都问创建人，经年累月，OMG ，这对团队来说是多可怕的成本，浪费了多少青春！
