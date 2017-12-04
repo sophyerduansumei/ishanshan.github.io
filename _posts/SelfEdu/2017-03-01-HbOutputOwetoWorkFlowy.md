@@ -63,7 +63,7 @@ description: 工具是辅助，输出作品才是目的。
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWorkflowyUsage.png)
 
 
-这些功能，如果你使用得当，甚至不会再想它增加什么。这不是玩笑，比如我，三年来从不用插件，也没想过需要它增加什么。刚还特意翻了它的 [Feature Announcement](https://blog.workflowy.com/category/feature-announcement/) ，2014 年 8 月后再没更新，估计也是实在想不出还必须增加什么吧……
+这些功能，如果你使用得当，甚至不会再想它增加什么。这不是玩笑，比如我，三年来从不用插件，也没想过需要它增加什么。刚还特意翻了它的 [Feature Announcement](https://blog.workflowy.com/category/feature-announcement/) ，2014 年 8 月后三年没更新，估计也与想不出必须新增什么有关……
 
 
 
@@ -169,7 +169,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 不时遇到一些朋友用 WorkFlowy 网页版，网络不稳定、加载慢，扭头就跟我说，你推荐那玩意儿不好使啊……
 
-呃。PC 请使用 [WorkFlowy 的 **Google App**](https://chrome.google.com/webstore/detail/workflowy/koegeopamaoljbmhnfjbclbocehhgmkm) 。你遇到的那些问题是网页应用常有之痛，明知山有虎偏向虎山行，我也爱莫能助。
+呃。PC 请使用 [WorkFlowy **desktop App**](https://blog.workflowy.com/2017/10/19/the-workflowy-desktop-app-has-arrived/) 。你遇到的那些问题是网页应用常有之痛，明知山有虎偏向虎山行，我也爱莫能助。
 
 
 
@@ -205,6 +205,7 @@ PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链
 
 ## CHANGELOG 
 
+- 171204 更新 WorkFlowy desktop App 下载链接
 - 170302 增补注册邀请链接
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
