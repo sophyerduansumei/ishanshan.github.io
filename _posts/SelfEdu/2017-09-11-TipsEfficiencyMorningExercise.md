@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 体能不能落 · 杂记
+title: 体能 不能落 · 杂记
 category: selfedu
 description: 初级商业人士拼体能，中级拼技能，高级又回到拼体能。
 ---

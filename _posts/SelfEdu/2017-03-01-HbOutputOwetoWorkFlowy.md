@@ -19,6 +19,7 @@ description: 工具是辅助，输出作品才是目的。
 **知识创造，可以分成三个层级：卡片、文件到项目这三个层级。**
 
 ![知识创造层次的图](http://openmindclub.qiniudn.com/ishanshan/blog/InfoKonwledgeCreate.png)
+<center> 知识创造各层级的区别 </center> 
 
 卡片层级对输出来说有多重要？将作家理解为建筑师，你就明白——每次盖房子，比起从水泥等粗活干起，直接用预制材料来搭房子会更快更稳。普通人每次写作在干粗活，超一流作家如纳博科夫、钱钟书等，则是**拼接卡片**。
 
@@ -49,19 +50,19 @@ description: 工具是辅助，输出作品才是目的。
 
 ## WorkFlowy 助力输入输出
 
-如果你还没用过 WorkFlowy ，先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
+如果你还没用过 WorkFlowy ，可以先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
 
 
 
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWorkflowyEdit.png)
-
+<center> WorkFlowy 功能简介 </center> 
 
 初见 WorkFlowy ，有人以为这是思维导图软件，有人当作 TODO List，你呢？
 
 不管怎样，WorkFlowy 基础功能虽简，却不失为可供性（[Affordance](https://en.wikipedia.org/wiki/Affordance)）极强的容器，应用场景无数。一如宜人的公园从不划死园区功用，只恰到好处地布上设施，却叫附近居民都能找到乐意停留的角落。
 
 ![](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWorkflowyUsage.png)
-
+<center> WorkFlowy 的用户故事 </center> 
 
 这些功能，如果你使用得当，甚至不会再想它增加什么。这不是玩笑，比如我，三年来从不用插件，也没想过需要它增加什么。刚还特意翻了它的 [Feature Announcement](https://blog.workflowy.com/category/feature-announcement/) ，2014 年 8 月后三年没更新，估计也与想不出必须新增什么有关……
 
@@ -81,6 +82,7 @@ description: 工具是辅助，输出作品才是目的。
 
 
 ![模板截图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTep.png)
+<center>我的每周工作梳理模板</center> 
 
 日常临时接到或忽然想起，但又难以立马想到安排在哪天，或实在太零碎不适合写进日报的事情，我则会及时记录在碎片清单的节点下；早晨规划日程或临时空闲，便会查看碎片清单，处理划掉一些事项。
 
