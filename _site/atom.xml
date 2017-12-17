@@ -4,7 +4,7 @@
    <title>ishanshan's blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2017-12-03T22:20:09+08:00</updated>
+   <updated>2017-12-09T09:53:51+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -369,7 +369,7 @@
 &lt;p&gt;&lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/InfoWorkflowyUsage.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center&gt; WorkFlowy 的用户故事 &lt;/center&gt;
 
-&lt;p&gt;这些功能，如果你使用得当，甚至不会再想它增加什么。这不是玩笑，比如我，三年来从不用插件，也没想过需要它增加什么。刚还特意翻了它的 &lt;a href=&quot;https://blog.workflowy.com/category/feature-announcement/&quot;&gt;Feature Announcement&lt;/a&gt; ，2014 年 8 月后再没更新，估计也是实在想不出还必须增加什么吧……&lt;/p&gt;
+&lt;p&gt;这些功能，如果你使用得当，甚至不会再想它增加什么。这不是玩笑，比如我，三年来从不用插件，也没想过需要它增加什么。刚还特意翻了它的 &lt;a href=&quot;https://blog.workflowy.com/category/feature-announcement/&quot;&gt;Feature Announcement&lt;/a&gt; ，2014 年 8 月后三年没更新，估计也与想不出必须新增什么有关……&lt;/p&gt;
 
 &lt;p&gt;基础功能了解完毕，用也。三年摸索，这几点给我助益颇大——&lt;/p&gt;
 
@@ -451,7 +451,7 @@
 
 &lt;p&gt;不时遇到一些朋友用 WorkFlowy 网页版，网络不稳定、加载慢，扭头就跟我说，你推荐那玩意儿不好使啊……&lt;/p&gt;
 
-&lt;p&gt;呃。PC 请使用 &lt;a href=&quot;https://chrome.google.com/webstore/detail/workflowy/koegeopamaoljbmhnfjbclbocehhgmkm&quot;&gt;WorkFlowy 的 &lt;strong&gt;Google App&lt;/strong&gt;&lt;/a&gt; 。你遇到的那些问题是网页应用常有之痛，明知山有虎偏向虎山行，我也爱莫能助。&lt;/p&gt;
+&lt;p&gt;呃。PC 请使用 &lt;a href=&quot;https://blog.workflowy.com/2017/10/19/the-workflowy-desktop-app-has-arrived/&quot;&gt;WorkFlowy &lt;strong&gt;desktop App&lt;/strong&gt;&lt;/a&gt; 。你遇到的那些问题是网页应用常有之痛，明知山有虎偏向虎山行，我也爱莫能助。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-4&quot;&gt;经常点进、退出节点&lt;/h3&gt;
 
@@ -480,6 +480,7 @@
 &lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;171204 更新 WorkFlowy desktop App 下载链接&lt;/li&gt;
   &lt;li&gt;170302 增补注册邀请链接&lt;/li&gt;
   &lt;li&gt;170301 初次起草一年后终于发布……&lt;/li&gt;
   &lt;li&gt;170218 增补图片、修订措辞&lt;/li&gt;
