@@ -125,10 +125,12 @@ description: 今天一口气刷完财新主编王烁的老婆推，拍案欢喜�
 
 写作之外，咱来看爱 ——
 
-咳咳……小女子更事未多，此题按下不表，他日学成再话。诸位看官请先自品 [https://workflowy.com/s/CO_N.vJKoPcObKJ](https://workflowy.com/s/CO_N.vJKoPcObKJ) ，来日切磋。再见~
+咳咳……小女子更事未多，此题按下不表，他日学成再话。诸位看官请先自品 [https://workflowy.com/s/CO_N.vJKoPcObKJ](https://workflowy.com/s/CO_N.vJKoPcObKJ) ，来日切磋。再见 ;-)
 
 ## CHANGELOG
 
 - 171129 早 补充各类细节，发布至 blog 0.5h
 - 171128 晚 慢改 3h
 - 171128 早 快写初稿发布于 [[5w] 分享你发现的 ch5 优秀资源／实践 · Issue #174 · AIWriter/Writer005](https://github.com/AIWriter/Writer005/issues/174#issuecomment-347141930) 0.5h
+
+
