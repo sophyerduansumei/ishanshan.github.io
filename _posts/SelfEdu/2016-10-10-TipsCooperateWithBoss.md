@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 和大 Boss 协同，你有什么秘诀？邮件先行。
-category: murmur
+category: selfedu
 description: 你思量说尽，他悉你忧，知你知与不知，这时候再当面沟通，必顺畅不少。
 
 ---
@@ -27,8 +27,7 @@ description: 你思量说尽，他悉你忧，知你知与不知，这时候再�
 唯一要提醒的是，这招效果得看协作之人——如果对方不喜阅读、较少写作，慎用;-)
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 161030 修订为书面语发布
 - 161010 讯飞语音口述
-

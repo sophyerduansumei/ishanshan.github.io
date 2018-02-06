@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 体能 不能落 · 杂记
-category: selfedu
+category: murmur
 description: 初级商业人士拼体能，中级拼技能，高级又回到拼体能。
 ---
 
@@ -38,9 +38,8 @@ description: 初级商业人士拼体能，中级拼技能，高级又回到拼�
 现在还加了 4 组平板撑，不想蹭脏衣服就来平板撑。已从只能持续 30s ，进化到 130s ，哈哈哈~
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 171129 早 增加后记，发布至 blog 0.5h
 - 170912 早 慢改，补充细节 1h
 - 170911 早 快写 0.5h
-
