@@ -5,9 +5,7 @@ category: selfedu
 description: Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
 ---
 
-三人上回相聚也在京城，两年未见，亦无隔阂。成长于社会创新圈的我们，现都进入商业公司。少了理想主义，多了市场洞察。
-
-只是大家关注领域不同，易八卦闲扯。此时我心常游离——
+三人上回相聚也在京城，两年未见，亦无隔阂。只是大家关注领域不同，易八卦闲扯。此时我心常游离——
 
 >Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
 
