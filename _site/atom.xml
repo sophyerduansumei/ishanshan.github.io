@@ -4,7 +4,7 @@
    <title>ishanshan's blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2017-12-09T09:53:51+08:00</updated>
+   <updated>2018-02-06T23:37:34+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -230,9 +230,7 @@
      <link href="http://beiyuu.com/selfedu/TipsMeetupHappier.html"/>
      <updated>2017-09-21T00:00:00+08:00</updated>
      <id>http://beiyuu.com/selfedu/TipsMeetupHappier</id>
-     <content type="html">&lt;p&gt;三人上回相聚也在京城，两年未见，亦无隔阂。成长于社会创新圈的我们，现都进入商业公司。少了理想主义，多了市场洞察。&lt;/p&gt;
-
-&lt;p&gt;只是大家关注领域不同，易八卦闲扯。此时我心常游离——&lt;/p&gt;
+     <content type="html">&lt;p&gt;三人上回相聚也在京城，两年未见，亦无隔阂。只是大家关注领域不同，易八卦闲扯。此时我心常游离——&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&lt;/p&gt;
@@ -242,6 +240,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;最近有什么让你特别兴奋（inspired/excited）的进展/项目/收获吗？&lt;/li&gt;
+  &lt;li&gt;过去一个月，你新接触的哪个概念/方法对你帮助最大？&lt;/li&gt;
   &lt;li&gt;你最近常用 App 都有哪些，最喜欢哪个，为什么？&lt;/li&gt;
   &lt;li&gt;你现在典型的一天是怎样的？&lt;/li&gt;
   &lt;li&gt;你理想的一天是怎样的？为什么？&lt;/li&gt;
@@ -256,6 +255,7 @@
 &lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;180104 增加一个问题&lt;/li&gt;
   &lt;li&gt;171129 修订发布至 blog 0.5h&lt;/li&gt;
   &lt;li&gt;170921 晚 快写 0.5h&lt;/li&gt;
 &lt;/ul&gt;

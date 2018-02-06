@@ -86,11 +86,11 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-.community .aside{
-    background-image:url(http://openmindclub.qiniudn.com/ishanshan/blog/AsideImage/plant2.jpg);
-}
 .selfedu .aside{
     background-image:url(http://openmindclub.qiniudn.com//ishanshan/blog/AsideImage/frout3.jpg);
+}
+.community .aside{
+    background-image:url(http://openmindclub.qiniudn.com/ishanshan/blog/AsideImage/plant2.jpg);
 }
 .murmur .aside{
     background-image:url(http://openmindclub.qiniudn.com//ishanshan/blog/AsideImage/seaside1.jpg);
@@ -168,8 +168,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .cate-bar { width:85%; }
     .index-content .artical-cate { margin-top:50px; }
 
-    .community .aside,
     .selfedu .aside,
+    .community .aside,
     .murmur .aside {display:none;background-image:none;}
 }
 

@@ -5,8 +5,8 @@ layout: home
 <div class="index-content murmur">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Community</span></a></li>
-            <li style="text-align:center"><a href="/SelfEdu"><span>SelfEdu</span></a></li>
+            <li><a href="/"><span>SelfEdu</span></a></li>
+            <li style="text-align:center"><a href="/Community"><span>Community</span></a></li>
             <li class="on" style="text-align:right"><a href="/MurMur"><span>MurMur</span></a></li>
         </ul>
 
@@ -26,5 +26,3 @@ layout: home
     <div class="aside">
     </div>
 </div>
-
-
