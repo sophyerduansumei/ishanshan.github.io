@@ -5,7 +5,7 @@ category: selfedu
 description: 愿知识工作者如你，也欣闻归属。
 ---
 
-<center> 愿知识工作者如你，欣闻归属。</center> 
+<center> 愿知识工作者如你，也欣闻归属。</center> 
 
 
 ## Swing · 缘
@@ -40,9 +40,7 @@ Swing 系自娱即兴舞蹈，不必循规蹈矩，没有严格的动作规范�
 
 **没见事先招呼却默契十足，个体既能自由表达，又能轻松享受延伸为整体的快乐**，正欲离场的我立马被这文化吸引，爱上 swing 。
 
-越爱越深，则因这是双人舞，需两人交流。以前习惯以言语和符号传递信息，现在开始凭肢体和表情传递信号，即使媒介切换的新奇日渐消退，被人理解的欣喜仍源源不绝。就如牙牙孩童，语言功能日渐发达，越来越能**理解世界、表达自我、与世互动，每一步都是新大陆，每一层都是新挑战** —— 啊哈，挑战递增不正是心流（flow）不断的要素吗~
-
-
+越爱越深，则因这是双人舞，需两人交流。以前习惯以言语和符号传递信息，现在开始凭肢体和表情传递信号，即使媒介切换的新奇日渐消退，被人理解的欣喜仍源源不绝。就如牙牙孩童，语言功能日渐发达，越来越能**理解世界、表达自我、与世互动，每一步都是新大陆，每一层都是新挑战** —— 啊哈，挑战递增不正是心流（flow）不断的要素吗：
 ![modelflow3.jpg](http://ishanshan.qiniudn.com/share/modelflow3.jpg?imageView2/2/w/500)
 图1 Flow chart[^7-3] 
 
@@ -59,7 +57,6 @@ Swing 系自娱即兴舞蹈，不必循规蹈矩，没有严格的动作规范�
 
 
 Swing 是什么？为什么要 Swing ？或寄托或消遣，或心动或心安，千位舞者有千种答案[^7-5]。于我，她是一种语言，有她便可跨越地域和种族愉快交流；也是复活良方，脑力工作必备；更一种习惯：Jazz 一响，整个人如浸入另一世界，纷繁思绪都被鼓点挤出 Jazz 之外，只剩身体和着韵律恣意摇摆，精神熵减，欢愉渐起。
-
 ![frankie-mannings-102nd-birthday.gif](http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750)
 图2 Swing 中很经典的空中动作[^7-7]
 
@@ -88,8 +85,6 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 
 
 最后，真的很想和遇到的每一位 swing dancer ，都说声谢谢 —— **YOU make my day!**
-
-
 ![stb2017.jpg](http://ishanshan.qiniudn.com/share/stb2017.jpg?imageView2/2/w/750)
 图3 Swingtime Ball[^9] 2017 
 
@@ -98,7 +93,7 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 
 ## Changelog 
 
-- 180207 这几天陆续补资料、慢改，终于搞定，前后耗时 8h 
+- 180207 这几天陆续补资料、慢改，终于搞定，耗时 8h 
 - 180204 查资料、重构 4h
 - 180128 创建，基本沿原仓库 readme 思路
 
@@ -121,6 +116,6 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 [^7-3]: From, Mihaly Csikszentmihalyi, Finding Flow: The Psychology of Engagement with Everyday Life (New York: Basic Books, 1998). [[douban](https://book.douban.com/subject/2066951/)]
 [^7-5]: 你的答案是什么？欢迎来 [What does swing mean to you? · Issue #2 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/2) 聊聊。
 [^7-7]: Google Doodle celebrates swing dancer [Frankie Manning](http://www.frankiemanning.com/) on what would have been his 102nd birthday on May 26, 2016. [[GoogleDoodle](https://www.google.com/doodles/frankie-mannings-102nd-birthday?hl=en)]
-[^8]: 我司一直倡导教是更好的学，每门课程伊始都会引导用户写教程给六个月前的自己，详见 [如何学习编程——来自认知科学的四个建议 - 阳志平的网志](http://www.yangzhiping.com/psy/learn-coding.html)。
+[^8]: 我司素来倡导教是更好的学，每门课程伊始都会引导用户写教程给六个月前的自己，详见 [如何学习编程——来自认知科学的四个建议 - 阳志平的网志](http://www.yangzhiping.com/psy/learn-coding.html)。
 [^9]: Swingtime Ball 是北京一年一度的摇摆盛典，也是目前国内最大的摇摆年度盛典，活动详情见官方网站 https://swingtimeball.com/ 。
 
