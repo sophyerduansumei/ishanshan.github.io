@@ -4,13 +4,148 @@
    <title>ishanshan's blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2018-02-06T23:45:13+08:00</updated>
+   <updated>2018-02-07T18:37:32+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
      <email></email>
    </author>
 
+   
+   <entry>
+     <title>Swing 吧！你的苦乐，swing 知道</title>
+     <link href="http://beiyuu.com/selfedu/YouNeedSwing.html"/>
+     <updated>2018-02-07T00:00:00+08:00</updated>
+     <id>http://beiyuu.com/selfedu/YouNeedSwing</id>
+     <content type="html">&lt;center&gt; 愿知识工作者如你，也欣闻归属。&lt;/center&gt;
+
+&lt;h2 id=&quot;swing--&quot;&gt;Swing · 缘&lt;/h2&gt;
+
+&lt;p&gt;2017 年夏天，我遭遇了工作以来最深的低谷，幸遇 swing&lt;sup id=&quot;fnref:0&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;，开始业余习舞，黯黑世界燃起星光。在 swing 的陪伴下，我最终平稳走出职业倦怠，也扛过了公司最动荡的时期。而 swing ，自此融入日常。&lt;/p&gt;
+
+&lt;p&gt;为什么 swing 让我如此开心？为什么我幸福感越来越高？怎样保持这样的状态？&lt;/p&gt;
+
+&lt;p&gt;这些问题不时蹦出，最近，我从积极心理学和认知科学找到了答案。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;运动使人轻松&lt;/strong&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:1-3&quot;&gt;&lt;a href=&quot;#fn:1-3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; ，&lt;strong&gt;韵律运动更甚&lt;/strong&gt;&lt;sup id=&quot;fnref:1-5&quot;&gt;&lt;a href=&quot;#fn:1-5&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; ，&lt;strong&gt;舞蹈功效加倍&lt;/strong&gt;：音乐是整理有素的声音资讯，可消解杂乱资讯干扰目标带来的烦躁焦虑&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; 。你若想和着音乐起舞，必须专注，如此，既能享受音乐，还使精神负熵，心流潺潺。&lt;strong&gt;和着节奏鲜明、动听活泼的摇摆乐起舞，心渐欢愉更是必然。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Swing 叫人快乐，多是藉此。于我亦然。不过幸福感越来越高，肯定不止如此 ——&lt;/p&gt;
+
+&lt;p&gt;新人如我，解锁新技能总兴奋不已。即使模仿得笨拙可笑，也能摆脱日常拘束，窥探不同生活方式。日拱一卒层层递进，生活盼头和乐趣自然多出不少。&lt;/p&gt;
+
+&lt;p&gt;懒人如我，日常专注一个多小时&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; ，就出去 swing 十来分钟。这般频率的蹦跶小憩（break）不仅高效回血&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; ，还能增加每天快乐的次数。而心理学研究表明，&lt;strong&gt;一个人的快乐程度，和他经历的快乐次数正相关，而非这件事情的快乐强度&lt;/strong&gt;&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; 。大脑轻松思维活跃，工作效率难免上涨，不仅心情大好，还挣得更多时间来 swing ；而 swing 有效学习时间增加水平渐长，课上便能给舞伴反馈如何跳得更好，能帮到别人自己很开心&lt;sup id=&quot;fnref:7-1&quot;&gt;&lt;a href=&quot;#fn:7-1&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;，更多人喜欢和自己跳舞也很开心。状态愈好，工作学习便愈高效，便有更多心力来 swing ，而 swing 愈多愈开心状态愈好……于是，我便浸在这无限正循环的幸福里自拔不能……&lt;/p&gt;
+
+&lt;h2 id=&quot;swing---1&quot;&gt;Swing · 趣&lt;/h2&gt;
+
+&lt;p&gt;等等，好像有哪里不对？—— 你可能已经发现，以上各点别的舞蹈也能实现。&lt;/p&gt;
+
+&lt;p&gt;是的。但我依然推荐 swing ，而非其它。&lt;/p&gt;
+
+&lt;p&gt;Swing 系自娱即兴舞蹈，不必循规蹈矩，没有严格的动作规范，约束寥寥，随性潇洒。&lt;strong&gt;掌握常用组合动作，男女老少高矮胖瘦皆可自由发挥。&lt;/strong&gt;风格可温柔妩媚、可热烈狂野，可帅气典雅，可俏皮活泼，你开心就好。即使双方互动交流协作共舞，也能充分展示个人魅力。&lt;/p&gt;
+
+&lt;p&gt;自由、随性，再独特的个体都能自由表达，这已属舞中少数。更可贵的是，还有全球舞者皆会的经典编舞：特定曲目一响，舞者便云集舞池，即使彼此陌生也能默契摇摆。&lt;strong&gt;在音乐的指引下，多个生理个体融为一个整体，循相同节奏，筑共同图景。自我疆界向外扩展，每个个体都能分享整体和谐与力量延伸的快乐。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;犹记彼时初入舞会，我一新手本无可恋即将离开，赶上舞会间奏（jam），无论经典编舞还是迎新辞旧或是庆贺佳节，那个时空都由中心和外围舞者共同创造 —— 周围或坐或站、默契响应的舞者，亦是这轮演出的一部分，少了必不完整。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;没见事先招呼却默契十足，个体既能自由表达，又能轻松享受延伸为整体的快乐&lt;/strong&gt;，正欲离场的我立马被这文化吸引，爱上 swing 。&lt;/p&gt;
+
+&lt;p&gt;越爱越深，则因这是双人舞，需两人交流。以前习惯以言语和符号传递信息，现在开始凭肢体和表情传递信号，即使媒介切换的新奇日渐消退，被人理解的欣喜仍源源不绝。就如牙牙孩童，语言功能日渐发达，越来越能&lt;strong&gt;理解世界、表达自我、与世互动，每一步都是新大陆，每一层都是新挑战&lt;/strong&gt; —— 啊哈，挑战递增不正是心流（flow）不断的要素吗~&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/modelflow3.jpg?imageView2/2/w/500&quot; alt=&quot;modelflow3.jpg&quot; /&gt;
+图1 Flow chart&lt;sup id=&quot;fnref:7-3&quot;&gt;&lt;a href=&quot;#fn:7-3&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;此外，swing 社区还有很多强化心流的支持：这里有摇摆前辈趟出的进阶路线，有给你反馈激励你前行的舞友，有定期举办的每周舞会和高手云集的年度盛典，你可以根据个人精力能力，选择探索节奏。&lt;/p&gt;
+
+&lt;p&gt;当然，推荐 swing 也有私心：想跟读我博客的你有更多交集嘛 ：P&lt;/p&gt;
+
+&lt;h2 id=&quot;swing---2&quot;&gt;Swing · 梯&lt;/h2&gt;
+
+&lt;p&gt;Swing 是什么？为什么要 Swing ？或寄托或消遣，或心动或心安，千位舞者有千种答案&lt;sup id=&quot;fnref:7-5&quot;&gt;&lt;a href=&quot;#fn:7-5&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;。于我，她是一种语言，有她便可跨越地域和种族愉快交流；也是复活良方，脑力工作必备；更一种习惯：Jazz 一响，整个人如浸入另一世界，纷繁思绪都被鼓点挤出 Jazz 之外，只剩身体和着韵律恣意摇摆，精神熵减，欢愉渐起。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750&quot; alt=&quot;frankie-mannings-102nd-birthday.gif&quot; /&gt;
+图2 Swing 中很经典的空中动作&lt;sup id=&quot;fnref:7-7&quot;&gt;&lt;a href=&quot;#fn:7-7&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。&lt;/p&gt;
+
+&lt;p&gt;这半年拾级而上，有许多发现许多思考，真希望半年前自己就知晓。秉承三年来忽悠我司用户学习的优良传统&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;，我把这些一得之见汇成教程，给六个月前的自己，教她如何欢乐摇摆，进阶更畅。&lt;strong&gt;这份教程，结合我对认知科学、学习科学和脑科学的粗浅理解，给出初涉 swing 到踏入舞池甚至筹办舞会的行动建议。毕竟是给自己的教程，自然毫无保留，持续更新。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;独乐不如众乐，也把她同你分享，助要探索 swing 丛林的你，摇摆更畅；也期待能抛砖引玉 —— 如果你有思考发现，欢迎与我分享，互塑共建：https://github.com/ishanshan/EnjoySwingDancing&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 —— swing 吧！你的苦乐，swing 知道 ;-)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，她对你来说意味着什么，你得亲自体验 ——&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;去附近最大的 swing 舞会吧！张开双臂，迈开双腿，和着 Jazz ，舞上一晚。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;愿知识工作者如你，也欣闻归属。&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;最后，真的很想和遇到的每一位 swing dancer ，都说声谢谢 —— &lt;strong&gt;YOU make my day!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/stb2017.jpg?imageView2/2/w/750&quot; alt=&quot;stb2017.jpg&quot; /&gt;
+图3 Swingtime Ball&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; 2017&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;Changelog&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;180207 这几天陆续补资料、慢改，终于搞定，前后耗时 8h&lt;/li&gt;
+  &lt;li&gt;180204 查资料、重构 4h&lt;/li&gt;
+  &lt;li&gt;180128 创建，基本沿原仓库 readme 思路&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot;&gt;
+      &lt;p&gt;Swing (dance) [&lt;a href=&quot;https://en.wikipedia.org/wiki/Swing_(dance)&quot;&gt;Wikipedia&lt;/a&gt;] &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Young, S. N. (2007). How to increase serotonin in the human brain without drugs. Journal of Psychiatry &amp;amp; Neuroscience : JPN, 32(6), 394–399. [&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077351/&quot;&gt;NCBI&lt;/a&gt;] &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1-3&quot;&gt;
+      &lt;p&gt;Dishman, T. to R. K., PhD, Georgia, of the U. of, Sothmann, M., PhD, Medicine, of I. U. S. of, &amp;amp; Sciences, S. of A. H. (n.d.). Exercise Fuels the Brain’s Stress Buffers. [&lt;a href=&quot;http://www.apa.org/helpcenter/exercise-stress.aspx&quot;&gt;APA&lt;/a&gt;] &lt;a href=&quot;#fnref:1-3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1-5&quot;&gt;
+      &lt;p&gt;约翰•瑞迪, &amp;amp; 埃里克•哈格曼. (2013). 运动改造大脑. (浦溶, Trans.). 浙江人民出版社. [&lt;a href=&quot;https://book.douban.com/subject/25755874/&quot;&gt;douban&lt;/a&gt;] &lt;a href=&quot;#fnref:1-5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;米哈里·契克森米哈赖. (2017). 心流. (张定绮, Trans.). 中信出版集团. [&lt;a href=&quot;https://book.douban.com/subject/27186106/&quot;&gt;douban&lt;/a&gt;] &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Rick Nauert PhD., (2011, February 9). Taking Breaks Found to Improve Attention.  [&lt;a href=&quot;https://psychcentral.com/news/2011/02/09/taking-breaks-found-to-improve-attention/23329.html&quot;&gt;psychcentral&lt;/a&gt;] &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Christian Jarrett PhD., (2016, August 30). A Science-Backed Guide to Taking Truly Restful Breaks. [&lt;a href=&quot;http://99u.com/articles/54325/a-science-backed-guide-to-taking-truly-restful-breaks&quot;&gt;99u&lt;/a&gt;] &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Diener E., Sandvik E., Pavot W. (2009) Happiness is the Frequency, Not the Intensity, of Positive Versus Negative Affect. In: Diener E. (eds) Assessing Well-Being. Social Indicators Research Series, vol 39. Springer, Dordrecht [&lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-90-481-2354-4_10&quot;&gt;springer&lt;/a&gt;] &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7-1&quot;&gt;
+      &lt;p&gt;Allen R McConnell Ph.D., (2010, December 25) Giving really is better than receiving. [&lt;a href=&quot;https://www.psychologytoday.com/blog/the-social-self/201012/giving-really-is-better-receiving&quot;&gt;PsyToday&lt;/a&gt;] &lt;a href=&quot;#fnref:7-1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7-3&quot;&gt;
+      &lt;p&gt;From, Mihaly Csikszentmihalyi, Finding Flow: The Psychology of Engagement with Everyday Life (New York: Basic Books, 1998). [&lt;a href=&quot;https://book.douban.com/subject/2066951/&quot;&gt;douban&lt;/a&gt;] &lt;a href=&quot;#fnref:7-3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7-5&quot;&gt;
+      &lt;p&gt;你的答案是什么？欢迎来 &lt;a href=&quot;https://github.com/ishanshan/EnjoySwingDancing/issues/2&quot;&gt;What does swing mean to you? · Issue #2 · ishanshan/EnjoySwingDancing&lt;/a&gt; 聊聊。 &lt;a href=&quot;#fnref:7-5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7-7&quot;&gt;
+      &lt;p&gt;Google Doodle celebrates swing dancer &lt;a href=&quot;http://www.frankiemanning.com/&quot;&gt;Frankie Manning&lt;/a&gt; on what would have been his 102nd birthday on May 26, 2016. [&lt;a href=&quot;https://www.google.com/doodles/frankie-mannings-102nd-birthday?hl=en&quot;&gt;GoogleDoodle&lt;/a&gt;] &lt;a href=&quot;#fnref:7-7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;我司一直倡导教是更好的学，每门课程伊始都会引导用户写教程给六个月前的自己，详见 &lt;a href=&quot;http://www.yangzhiping.com/psy/learn-coding.html&quot;&gt;如何学习编程——来自认知科学的四个建议 - 阳志平的网志&lt;/a&gt;。 &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;Swingtime Ball 是北京一年一度的摇摆盛典，也是目前国内最大的摇摆年度盛典，活动详情见官方网站 https://swingtimeball.com/ 。 &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+   </entry>
    
    <entry>
      <title>跟王烁「老婆推」学记趣和爱 · 杂记</title>
@@ -161,7 +296,7 @@
 
 &lt;p&gt;写作之外，咱来看爱 ——&lt;/p&gt;
 
-&lt;p&gt;咳咳……小女子更事未多，此题按下不表，他日学成再话。诸位看官请先自品 &lt;a href=&quot;https://workflowy.com/s/CO_N.vJKoPcObKJ&quot;&gt;https://workflowy.com/s/CO_N.vJKoPcObKJ&lt;/a&gt; ，来日切磋。再见~&lt;/p&gt;
+&lt;p&gt;咳咳……小女子更事未多，此题按下不表，他日学成再话。诸位看官请先自品 &lt;a href=&quot;https://workflowy.com/s/CO_N.vJKoPcObKJ&quot;&gt;https://workflowy.com/s/CO_N.vJKoPcObKJ&lt;/a&gt; ，来日切磋。再见 ;-)&lt;/p&gt;
 
 &lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
 
@@ -170,6 +305,7 @@
   &lt;li&gt;171128 晚 慢改 3h&lt;/li&gt;
   &lt;li&gt;171128 早 快写初稿发布于 &lt;a href=&quot;https://github.com/AIWriter/Writer005/issues/174#issuecomment-347141930&quot;&gt;[5w] 分享你发现的 ch5 优秀资源／实践 · Issue #174 · AIWriter/Writer005&lt;/a&gt; 0.5h&lt;/li&gt;
 &lt;/ul&gt;
+
 </content>
    </entry>
    
@@ -646,98 +782,6 @@
 &lt;ul&gt;
   &lt;li&gt;161030 修订为书面语发布&lt;/li&gt;
   &lt;li&gt;161010 讯飞语音口述&lt;/li&gt;
-&lt;/ul&gt;
-
-</content>
-   </entry>
-   
-   <entry>
-     <title>我挺好，别担心 | 写在工作一周年边上</title>
-     <link href="http://beiyuu.com/selfedu/WorkFor1Year.html"/>
-     <updated>2016-06-11T00:00:00+08:00</updated>
-     <id>http://beiyuu.com/selfedu/WorkFor1Year</id>
-     <content type="html">&lt;p&gt;&lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/SE160611.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;2012 年夏摄于北京植物园&lt;/center&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;一&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;你相较毕业前变化真是太大了！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;老妈在电话那头心疼又着急。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;看你朋友圈啊。你之前总去外面参加活动，现在总是一个人……&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;桂南小城夏日的酷暑沿着无线电波振越千里，一圈一圈罩在我耳边，脸颊，肩头，四肢，把京城夜色下的寒气暂隔在外。&lt;/p&gt;
-
-&lt;p&gt;我一下失了神，张张嘴不知该回什么，三言两语挂掉电话，抱着手臂迎着楼间穿堂冷风快步回家。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;二&lt;/h2&gt;
-
-&lt;p&gt;看着工作日志变为第五十四周，我激动又惶恐——转眼竟已过一年，从五道口到南三环，再回五道口，兜兜转转近四百个日夜，我收获了什么改变了什么坚持着什么期盼着什么？&lt;/p&gt;
-
-&lt;p&gt;瞪大了双眼出神回想，却发现答案仿佛雨点落在草地，溅起水花，却难汇出形状。经历了很多事情，却又细碎，还未质变能拿出里程碑成果，所以收获理不出个一二三。&lt;/p&gt;
-
-&lt;p&gt;老妈说的没错，现在我总是独自一人，这变化是事实：学生时代的课业主要和物打交道，而我更喜欢和人打交道，总忙不迭出没全国各青年活动现场，结识有共鸣的伙伴；工作后每天还没到公司就得和用户、合作伙伴打交道，有意识地引导对方往自己期待的方向行动，考虑该如何措辞才不失礼、该如何回应对话才更顺畅。纵使再喜欢和人交互，长此以往，也难免心生困乏。工作之余，当然不再乐意去沙龙活动和人探讨交流。&lt;/p&gt;
-
-&lt;p&gt;初觉这转变，是友人提起我朋友圈静默了许多，很久没见我参加活动。我看着她头一歪，翻出朋友圈：的确更新频率低了很多，也很少再有一群人活动的合影。&lt;/p&gt;
-
-&lt;p&gt;但这未必不是好事。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;三&lt;/h2&gt;
-
-&lt;p&gt;老妈对我的要求只有一个：过得开心。所以她发现我很少外出社交、总不会闲下来、还变得很少在朋友圈表达喜怒哀乐时，第一反应是我过得不顺，心疼却无能为力只能干着急。&lt;/p&gt;
-
-&lt;p&gt;这节奏听起来的确难以让人放心，但细细盘点，发现其实现在我的状态还挺不错：&lt;/p&gt;
-
-&lt;p&gt;比如买了懒人锅开始自己下厨，过上了青菜和炖汤想吃就有的小日子；日常购物足够便捷，想看的书马上就能到手——Kindle 版或实体都能在 24 小时内拿到；每天上下班单程步行 10 分钟，不经过交通灯，虽身处宇宙中心五道口，却无拥堵烦恼。&lt;/p&gt;
-
-&lt;p&gt;又如和新室友关系友好，有不少共同话题，同龄人各有长处，他虽然经常看不惯我却又不得不跟我一起建设同一屋檐下的共产主义哇哈哈；保持着每月至少两次和个人学习部落中的师友见面的频率，和他们当面更新状态，相互取经、激励；遇到不顺，总可以很快约到友人出来倾听、开导自己；朋友们都觉得我靠谱，乐意一起折腾，甚至有位我很敬重的师友从我大四至今一直等着我加入他的创业公司。&lt;/p&gt;
-
-&lt;p&gt;再如每周都和爸妈至少一轮通话，了解家里暖寒；他们各自过得都不错——衣食无忧，有自己的生活，身体还没出现太严重的问题，有人相伴，被人需要。&lt;/p&gt;
-
-&lt;p&gt;更如每周都打羽毛球（虽然总被几个男同事吊打=.=），最近还拿到了健身卡，中午或晚上都可以去参加操课、游泳，逐步学会感受、调节身体的每块肌肉；平均每月至少一次音乐会（虽然都是独自一人……）感受自己不熟悉的艺术；无数好书相伴，可以翻阅很多科学家、思想家的探索成果，共享他们面对问题和迷时的惊喜兴奋纠结与遗憾；逐渐稳定了早睡早起的习惯，主题学习时段由晚上挪到清晨，洗漱后冥想、晨间日记、跳操、主题学习、吃早餐、英语晨读、上班，每天越发充实。&lt;/p&gt;
-
-&lt;p&gt;还如工作自由度较大，Boss 器重我并愿意让我试错，且他能力至少高出我三个标准差，能及时提供反馈和指导；近期工作负荷也在自己还算舒适的范围内（虽然最近几位新入职的同事都觉得是他们之前公司的 2~3 倍），可以有更多时间思考；更欣慰的是最近不怎么需要加班，有了更多自己的时间。&lt;/p&gt;
-
-&lt;p&gt;……&lt;/p&gt;
-
-&lt;p&gt;遗憾不是没有，比如前几周才开始早睡早起——错过了近一年的美妙清晨啊！心酸更是频繁，比如去年连续四个月推不开的忧愁积在心头累在眉梢，年底甚至几近崩溃泪眼婆娑地跟 Boss 提离职……&lt;/p&gt;
-
-&lt;p&gt;只是把小确幸一一数出，纵然欢乐苦短，也能心有所慰吧：）&lt;/p&gt;
-
-&lt;h2 id=&quot;section-3&quot;&gt;四&lt;/h2&gt;
-
-&lt;p&gt;端午好友来家品茶漫话，话题之一便是年中小结，聊聊各自这半年的收获与改变。话题是我发起，轮到我时却语塞。幸得窗外大雨，盖过这尴尬。&lt;/p&gt;
-
-&lt;p&gt;他们都在各自的道路上冒雨前行，如今风雨渐小，视界更为清晰广阔，步伐也更欢快坚定。&lt;/p&gt;
-
-&lt;p&gt;我呢，我要迈向哪里？&lt;/p&gt;
-
-&lt;p&gt;如果问我人生有什么期许，那便是推动更多个体实现自我教育：让更多人走上自我教育的道路，让更多人在自我教育的道路上越走越顺畅。&lt;/p&gt;
-
-&lt;p&gt;忐忑的是，这期许目前还属远方朦胧的路标，如何到那儿，现在还未知。&lt;/p&gt;
-
-&lt;p&gt;欣慰的是，有了这路标，再面对纷繁的事务、资源和机会，便不容易慌乱——如果有助于靠近路标，那便投入多些精力与时间，如果不，尽量少驻足。&lt;/p&gt;
-
-&lt;p&gt;只是，不能只埋头踢石子，一定要多抬头看看路标守住心之所往让自己更有成就感呀。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-4&quot;&gt;五&lt;/h2&gt;
-
-&lt;p&gt;北漂近五年，要多做些令自己有成就感的事情啦。&lt;/p&gt;
-
-&lt;p&gt;推开窗，拥着雨后清爽的凉风，我舒心自语。&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;160611 修订发布&lt;/li&gt;
-  &lt;li&gt;160609 WorkFlowy 中起笔&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
