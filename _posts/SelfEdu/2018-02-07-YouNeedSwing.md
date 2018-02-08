@@ -84,7 +84,7 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 
 
 
-最后，真的很想和遇到的每一位 swing dancer ，都说声谢谢 —— **YOU make my day!** 😘
+最后，真的很想和遇到的每一位 swing dancer ，都说声谢谢 —— 如果没有遇到你们，真不知道我现在会在哪里，还要在黑暗中待多久。**YOU make my day!** 😘
 ![stb2017.jpg](http://ishanshan.qiniudn.com/share/stb2017.jpg?imageView2/2/w/750)
 图3 Swingtime Ball[^9] 2017 
 
