@@ -17,7 +17,7 @@ description: 愿知识工作者如你，也欣闻归属。
 
 这些问题不时蹦出，最近，我从积极心理学和认知科学找到了答案。
 
-**运动使人轻松**[^1][^1-3] ，**韵律运动更甚**[^1-5] ，**舞蹈功效加倍**：音乐是整理有素的声音资讯，可消解杂乱资讯干扰目标带来的烦躁焦虑[^2] 。你若想和着音乐起舞，必须专注，如此，既能享受音乐，还使精神负熵，心流潺潺。**和着节奏鲜明、动听活泼的摇摆乐起舞，心渐欢愉更是必然。**
+血清素可抵抗抑郁和焦虑，运动能提升人体血清素含量[^1]。**适量运动使人轻松**，**韵律运动更甚**[^1-5] ，**舞蹈功效加倍**：音乐是整理有素的声音资讯，可消解杂乱资讯干扰目标带来的烦躁焦虑[^2] 。你若想和着音乐起舞，必须专注，如此，既能享受音乐，还使精神负熵，心流潺潺。**和着节奏鲜明、动听活泼的摇摆乐起舞，心渐欢愉更是必然。**
 
 
 Swing 叫人快乐，多是藉此。于我亦然。不过幸福感越来越高，肯定不止如此 —— 
@@ -93,7 +93,8 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 
 ## Changelog 
 
-- 180207 这几天陆续补资料、慢改，终于搞定，耗时 8h 
+- 180208 修订表述
+- 180207 这几天陆续补资料、慢改，终于搞定发布，耗时 9h 
 - 180204 查资料、重构 4h
 - 180128 创建，基本沿原仓库 readme 思路
 
@@ -106,7 +107,6 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 
 [^0]: Swing (dance) [[Wikipedia](https://en.wikipedia.org/wiki/Swing_(dance))] 
 [^1]: Young, S. N. (2007). How to increase serotonin in the human brain without drugs. Journal of Psychiatry & Neuroscience : JPN, 32(6), 394–399. [[NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077351/)]
-[^1-3]: Dishman, T. to R. K., PhD, Georgia, of the U. of, Sothmann, M., PhD, Medicine, of I. U. S. of, & Sciences, S. of A. H. (n.d.). Exercise Fuels the Brain’s Stress Buffers. [[APA]( http://www.apa.org/helpcenter/exercise-stress.aspx)]
 [^1-5]: 约翰•瑞迪, & 埃里克•哈格曼. (2013). 运动改造大脑. (浦溶, Trans.). 浙江人民出版社. [[douban](https://book.douban.com/subject/25755874/)]
 [^2]: 米哈里·契克森米哈赖. (2017). 心流. (张定绮, Trans.). 中信出版集团. [[douban](https://book.douban.com/subject/27186106/)]
 [^3]: Rick Nauert PhD., (2011, February 9). Taking Breaks Found to Improve Attention.  [[psychcentral](https://psychcentral.com/news/2011/02/09/taking-breaks-found-to-improve-attention/23329.html)] 
