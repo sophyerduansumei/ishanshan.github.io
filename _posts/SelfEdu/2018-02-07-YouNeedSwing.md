@@ -58,7 +58,7 @@ Swing 系自娱即兴舞蹈，不必循规蹈矩，没有严格的动作规范�
 
 Swing 是什么？为什么要 Swing ？或寄托或消遣，或心动或心安，千位舞者有千种答案[^7-5]。于我，她是一种语言，有她便可跨越地域和种族愉快交流；也是复活良方，脑力工作必备；更一种习惯：Jazz 一响，整个人如浸入另一世界，纷繁思绪都被鼓点挤出 Jazz 之外，只剩身体和着韵律恣意摇摆，精神熵减，欢愉渐起。
 ![frankie-mannings-102nd-birthday.gif](http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750)
-图2 Swing 的经典动作：aerial[^7-7]
+图2 Swing 经典动作：Aerials[^7-7]
 
 Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
