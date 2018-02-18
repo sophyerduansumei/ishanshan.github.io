@@ -52,7 +52,7 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 
 这段美好时光当如何留念？问题少女如你会常问自己。
 
-11 月清晨，你将在半醒半睡中拿到封印时光的指南针，并沿着它的指引，拓下这段别样时光：一边用自主心智([Autonomous Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))和算法心智([Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))处理情感变化，一边凭反省心智([Reflective Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))观察记录，凝作 [《谢谢你给她的时光》](http://ishanshan.top/murmur/Letter2XY4Year2017.html) 。
+11 月清晨，你将在半醒半睡中拿到封印时光的指南针，并沿着它的指引，拓下这段别样时光：一边用自主心智([Autonomous Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))和算法心智([Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))处理情感变化，一边凭反省心智([Reflective Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))观察记录，印作 [《谢谢你给她的时光》](http://ishanshan.top/murmur/Letter2XY4Year2017.html) 。
 
 其实开始时你并不知能拓成怎样，但就如画家作画，一开始也不知道，画下去就知道了：要的是这一笔，不是那一笔；这里要轻涂，那里要重抹。又比作画丰富不少 —— 你心知一旦拓成，这不仅是你写作路上从逻辑文采进阶到故事的里程碑，也是你锻炼高阶意向性(intentionality)的里程碑，更是你发展理性和感性双系统的里程碑，而这些，都将助你完成人一生自我发展的重要命题：
 
@@ -200,13 +200,13 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 
 长路漫浩浩，必有难过时：人生不会总高潮，夏天，你会经历工作以来最深的低谷。
 
-时逢工作满 2 年，你会发现自己状态越来越不对：感觉工作没有进步，为好像难以匹配市面公司的职务而焦虑憋屈，不愿和同事打交道，每天都压力满满。
+时逢工作满 2 年，你发现自己状态越来越不对：感觉工作没有进步，为好像难以匹配市面公司的职务而焦虑憋屈，不愿和同事打交道，每天都压力满满。
 
 这是典型的职业倦怠。别担心，这在职场中很正常，就和人不时会感冒一样不是什么大问题。而且未来你还会再遇到它，正好积累经验。
 
 发现这些不对劲的状况，你老实跟老大说就好，他心理健康背景发家，还做过相关课题研究，能给你不少解决建议。更关键的，他是老板，器重你的老板，会从长远职业生涯考量，给你转换工作方向的机会：教学设计（instruction design）。这正好是团队缺口，也符合你过往志趣：2012~2015 年，你在各青年社区活跃，从参与者变为核心成员再变为发起人，张罗小型交流活动，引导大伙儿朝你设计的方向转变，其实就是 instruction design 啊。
 
-和他聊完，你还将得到一个假期回家歇歇。走时一定要带上 kindle ，因为休假治标不治本，无法解除你的焦虑 —— 返京路上，你一想到之前困扰的境况大都还在，就慌闷难耐。虽然肯定不全是你的责任，但总觉得没把公司做好与自己干系不小，怎么也逃不掉胸口大石。此时别怕，快亮出 kindle，上帝虽把你困在北上的摇晃车厢，也给你留了一扇窗：打开《创业维艰》，你将发现，眼前糟心不过本·霍洛维茨十五年创业生涯困苦的九牛一毛：
+和他聊完，你还将得到一个假期回家歇歇。走时一定要带上 kindle ，因为休假治标不治本，无法解除你的焦虑 —— 返京路上，你一想到之前困境大都还在，就慌闷难耐。虽然肯定不全是你的责任，但总觉得没把公司做好与自己干系不小，怎么也逃不掉胸口大石。此时别怕，快亮出 kindle，上帝虽把你困在北上的摇晃车厢，也给你留了一扇窗：打开《创业维艰》，你将发现，眼前糟心不过本·霍洛维茨十五年创业生涯困苦的九牛一毛：
 
 > 在担任 CEO 的 8 年多时间里，只有 3 天是顺境，剩下 8 年几乎全是举步维艰。
 
