@@ -191,7 +191,7 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 ![samplethinkingthoughtexperiment2.png](http://ishanshan.qiniudn.com/share/samplethinkingthoughtexperiment2-2.png?imageslim)
 <center>图4 对公司业务的思考</center> 
 
-但你也深知自己对行业机会、未来形势的预判依然欠缺。不过没关系，你先扎实基本功，那些上层才干还有我来收拾呢。
+但你也深知自己对商业模式、行业机会、未来形势的预判依然欠缺。不过没关系，你先扎实基本功，那些上层才干还有我来收拾呢。
 
 
 
