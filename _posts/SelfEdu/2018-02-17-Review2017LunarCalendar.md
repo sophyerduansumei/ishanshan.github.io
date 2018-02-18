@@ -34,7 +34,7 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 
 若不是这个野心，在浩汗霜风刮天地的深冬，你又怎会每天早晨都迫不及待起来，扑到电脑前，争取上班前的两小时推动她生发？
 
-起初，你只是想把进阶心得分享给更多人，不想这不仅给了你特长的用武之地：比如对认知科学、学习科学的实践、对社区运营的理解、玩 swing & GitHub 的心得，还不知不觉领你运用成功万花筒策略([The Kaleidoscope Strategy](https://hbr.org/2004/02/success-that-lasts), Nash & Stevenson, 2004)倍增幸福：在工作目标不必「多多益善」的情况下，「适可而止」转入新目标，且是一个齐备快乐、成就、意义、传承四种元素的新目标，使你个人万花筒图案愈发丰富多彩，幸福感也节节高升。
+起初，你只是想把进阶心得分享给更多人，不想这不仅给了你特长的用武之地：比如对认知科学、学习科学的实践、对社区运营的理解、玩 swing & GitHub 的心得，还不知不觉领你运用成功万花筒策略([The Kaleidoscope Strategy](https://hbr.org/2004/02/success-that-lasts), Nash & Stevenson, 2004)倍增幸福：在工作目标不必「多多益善」的情况下，「适可而止」转入新目标，且是一个齐备快乐(happiness)、成就(achievement)、意义(significance)、传承(legacy)四种元素的新目标，使你个人万花筒图案愈发丰富多彩，幸福感也节节高升。
 
 ![infopersonalkaleidoscope.gif](http://ishanshan.qiniudn.com/share/infopersonalkaleidoscope.gif)
 <center>图1 personal kaleidoscope strategy</center> 
