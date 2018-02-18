@@ -79,7 +79,7 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 
 但项目负责同事并不看好 —— 她在自己张罗的学习小组里尝试不佳：要求大伙儿互评，但响应寥寥。你不服，认定大方向无误 —— 不依赖外部评价给自己反馈，是受益无穷的能力，亦是新手快速进阶的宝剑，值得尝试；只是需从小处入手，优化引导。然后便自顾自推动：整理新手常忽略但裨益良多的编程习惯、学习习惯，汇成自评清单，供同学自检、互评；优化作业提交模板细节，加上「给楼上同学的反馈：……」等细节，把这个作为提交必需。
 
-![sampleissueassignmenthandup.png](http://ishanshan.qiniudn.com/share/sampleissueassignmenthandup.png)
+![sampleissueassignmenthandup.png](http://ishanshan.qiniudn.com/share/sampleissueassignmenthandup.png?imageslim)
 <center>图2 作业提交引导</center> 
 
 
