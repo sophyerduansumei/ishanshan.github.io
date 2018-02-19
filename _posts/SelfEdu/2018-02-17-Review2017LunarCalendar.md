@@ -34,7 +34,7 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 
 若不是这个野心，在浩汗霜风刮天地的深冬，你又怎会每天早晨都迫不及待起来，扑到电脑前，争取上班前的两小时推动她生发？
 
-起初，你只是想把进阶心得分享给更多人，不想这不仅给了你特长的用武之地：比如对认知科学、学习科学的实践、对社区运营的理解、玩 swing & GitHub 的心得，还不知不觉领你运用成功万花筒策略([The Kaleidoscope Strategy](https://hbr.org/2004/02/success-that-lasts), Nash & Stevenson, 2004)倍增幸福：在工作目标不必「多多益善」的情况下，「适可而止」转入新目标，且是一个齐备快乐(happiness)、成就(achievement)、意义(significance)、传承(legacy)四种元素的新目标，使你个人万花筒图案愈发丰富多彩，幸福感也节节高升。
+起初，你只是想把进阶心得分享给更多人，不想这不仅给了你特长的用武之地：比如对认知科学和学习科学的实践、对社区运营的理解、玩 swing & GitHub 的心得，还不知不觉领你运用成功万花筒策略([The Kaleidoscope Strategy](https://hbr.org/2004/02/success-that-lasts), Nash & Stevenson, 2004)倍增幸福：在工作目标不必「多多益善」的情况下，「适可而止」转入新目标，且是一个齐备快乐(happiness)、成就(achievement)、意义(significance)、传承(legacy)四种元素的新目标，使你个人万花筒图案愈发丰富多彩，幸福感也节节高升。
 
 ![infopersonalkaleidoscope.gif](http://ishanshan.qiniudn.com/share/infopersonalkaleidoscope.gif)
 <center>图1 personal kaleidoscope strategy</center> 
@@ -54,7 +54,7 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 
 11 月清晨，你将在半醒半睡中拿到封印时光的指南针，并沿着它的指引，拓下这段别样时光：一边用自主心智([Autonomous Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))和算法心智([Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))处理情感变化，一边凭反省心智([Reflective Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf))观察记录，印作 [《谢谢你给她的时光》](http://ishanshan.top/murmur/Letter2XY4Year2017.html) 。
 
-其实开始时你并不知能拓成怎样，但就如画家作画，一开始也不知道，画下去就知道了：要的是这一笔，不是那一笔；这里要轻涂，那里要重抹。又比作画丰富不少 —— 你心知一旦拓成，这不仅是你写作路上从逻辑文采进阶到故事的里程碑，也是你锻炼高阶意向性(intentionality)的里程碑，更是你发展理性和感性双系统的里程碑，而这些，都将助你完成人一生自我发展的重要命题：
+其实起笔时你并不知能拓成怎样，但就如画家作画，一开始也不知道，画下去就知道了：要的是这一笔，不是那一笔；这里要轻涂，那里要重抹。又比作画丰富不少 —— 你心知一旦拓成，这不仅是你写作路上从逻辑文采进阶到故事的里程碑，也是你锻炼高阶意向性(intentionality)的里程碑，更是你发展理性和感性双系统的里程碑，而这些，都将助你完成人一生自我发展的重要命题：
 
 > 理性和感性双系统的成长决定了人生的深度和宽度。在感性方面有优势的人，理性系统决定了其思想发展的高度；在理性方面有优势的人，感性系统决定了其社会化发展的丰富性和敏感性。因此，完善自己的双系统是自我发展的终生任务与目标。
 > —— 《追时间的人》
@@ -286,7 +286,7 @@ description: 你要记住，你在心灵自由的路上，踌躇、挣扎、崩�
 
 此外，你还将接触很多有意思的东西：无论是 [Sci-Hub](https://sci-hub.tw/), [Frontiers](https://www.frontiersin.org/) 等致力打破科研藩篱、加速人类智慧前进的平台，还是优雅收编、共享文献的 [Zotero](https://www.zotero.org/) ，令人高效知悉论文信度的 [Bookmarklet – Altmetric](https://www.altmetric.com/products/free-tools/bookmarklet/) ，重新定义论文阅读的 [Utopia Documents](http://utopiadocs.com/) 等巧妙助力研究的工具，都会令你击掌拍案。
 
-历史不会重演，但会押韵：这一切，让你仿佛回到六年前。那时你大一，刚踏入日渐蓬勃的社会创新圈，为这个世界还有这样一群人，以这样的热情和行动推动社会多元美好兴奋雀跃，为你能接触他们、参与其中激动难眠，那会儿真是走在路上都忍不住哼歌吹哨蹦跳旋转啊。
+历史不会重演，但会押韵：这一切，让你仿佛回到六年前。那时你大一，刚踏入日渐蓬勃的社会创新圈，为这个世界还有这样一群人，以这样的热情和行动推动社会多元美好兴奋雀跃，为你能接触他们、参与其中激动难眠，那会儿真是走在路上都忍不住哼歌吹哨旋转跳跃啊。
 
 
 只是，彼时你给自己的角色定位是 connector ，把这些精彩与需要的人连接。**现在，你更期望成为 shaper ，用这些成果把周围塑造成你想见的样子**。
@@ -331,8 +331,20 @@ Be a shaper. 你深信这不只是一条 bio ，更是护心斗篷。就如小�
 
 长风破浪会有时，直挂云帆济沧海，走起！
 
+
+<br> 
+
+PS.
+
+语言不是思想的外衣，而是思想本身。年度回顾写完，要去何方、路在哪里这些人生大问题也清晰不少。
+
+很感谢有一群随时支持我的师友，陪我走到现在。更感谢有开明的爸妈，愿意让我偏离社会钟(social clock[^5-1])春节不回家，留京专心完成这项重要的个人仪式。
+
+希望新的一年，可以继续坦然笑对起伏人生，从容封印酸甜时光。也愿你我，都成为自己更喜欢的自己：）
+
 ## Changelog 
 
+- 180219 增加注 0.5h
 - 180217 陆续撰写修订 60+h ，终于发布
 - 180101 创建，快写了几个片段 4h
 
@@ -343,5 +355,5 @@ Be a shaper. 你深信这不只是一条 bio ，更是护心斗篷。就如小�
 [^2-9]: P A C 分别代表父母自我状态(Parent)、成人自我状态(Adult)、儿童自我状态(Child)，沟通模式「AA-CP」 表示刺激是从「成人」到「成人」的(AA)，例如询问信息，但收到的回应是从「儿童」到「父母」的(CP)。详见 Berne, E. (2016). 人生脚本. (周司丽, Trans.). 中国轻工业出版社. [[douban](https://book.douban.com/subject/26906474/)]。
 
 
-
+[^5-1]: The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status.[[study](https://study.com/academy/lesson/the-social-clock-definition-theory.html)]
 
