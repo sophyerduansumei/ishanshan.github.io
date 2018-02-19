@@ -336,7 +336,7 @@ Be a shaper. 你深信这不只是一条 bio ，更是护心斗篷。就如小�
 
 PS.
 
-语言不是思想的外衣，而是思想本身。年度回顾写完，要去何方、路在哪里这些人生大问题也清晰不少。
+语言不是思想的外衣，而是思想本身。这篇年度回顾写完，要去何方、路在哪里这些人生大问题也清晰不少。
 
 很感谢有一群随时支持我的师友，陪我走到现在。更感谢有开明的爸妈，愿意让我偏离社会钟(social clock[^5-1])春节不回家，留京专心完成这项重要的个人仪式。
 
@@ -355,5 +355,5 @@ PS.
 [^2-9]: P A C 分别代表父母自我状态(Parent)、成人自我状态(Adult)、儿童自我状态(Child)，沟通模式「AA-CP」 表示刺激是从「成人」到「成人」的(AA)，例如询问信息，但收到的回应是从「儿童」到「父母」的(CP)。详见 Berne, E. (2016). 人生脚本. (周司丽, Trans.). 中国轻工业出版社. [[douban](https://book.douban.com/subject/26906474/)]。
 
 
-[^5-1]: The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status.[[study](https://study.com/academy/lesson/the-social-clock-definition-theory.html)]
+[^5-1]: The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status. [[study](https://study.com/academy/lesson/the-social-clock-definition-theory.html)]
 
