@@ -9,16 +9,8 @@ description: Great minds discuss ideas. Average minds discuss events. Small mind
 
 >Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
 
-如何避免？备几枚常用问题，形势不妙就抛出：
+如何避免？备几枚常用问题，形势不妙就抛出：https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md 。
 
-- 最近有什么让你特别兴奋（inspired/excited）的进展/项目/收获吗？
-- 过去半年，你觉得自己最大的变化是什么，为什么？
-- 过去三个月，你新接触的哪个概念/方法对你帮助最大？
-- 你最近常用 App 都有哪些，最喜欢哪个，为什么？
-- 你现在典型的一天是怎样的？
-- 你理想的一天是怎样的？为什么？
-- 今年哪本书对你影响最大？为什么？
-- ……
 
 遇到投缘者，还可定期小聚，[借鉴 MIT 实验室定期报告制度](http://joinwee.com/discuss/275/)，同步近期主修，交换重大信息。我和熊每月一聚交流新知，已连续五月，这成了我俩每月最期待的节目。推荐你也践行~
 
@@ -26,6 +18,7 @@ description: Great minds discuss ideas. Average minds discuss events. Small mind
 
 ## CHANGELOG
 
+- 180310 把问题汇总到一个文档中
 - 180209 增加一个问题
 - 180104 增加一个问题
 - 171129 修订发布至 blog 0.5h
