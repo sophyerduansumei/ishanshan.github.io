@@ -4,7 +4,7 @@
    <title>ishanshan's blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2018-02-20T14:35:53+08:00</updated>
+   <updated>2018-03-16T08:07:25+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -272,14 +272,7 @@
 
 &lt;p&gt;即使不甚聪明如你，待的日子久了也能潜移默化，开始运用 default-mode network, remote associates 等人类自带机能提升创作和工作效率，利用 desirable difficulty, working memory, mirror neuron 等规律特性长进学习效率，巧用 self-determination theory, flow, the Kaleidoscope strategy, WOOP 等占优策略(dominant strategy)优化生活品质。&lt;/p&gt;
 
-&lt;p&gt;在科学领域探索越多，你会越认同一定要站上前人肩膀，才能远离低水平重复，不重复造轮子，获得可叠加的进步。面对新出现的解释体系，你会下意识地按这套思路思考：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;提出这个理论是为了解决什么问题或解释什么现象？解决这个问题或解释这个现象的意义何在？&lt;/li&gt;
-  &lt;li&gt;已有理论是如何解决这个问题或解释这个现象的？有什么不足？&lt;/li&gt;
-  &lt;li&gt;新提出的理论有何优势，如何巧妙解决这些不足？证据是什么？&lt;/li&gt;
-  &lt;li&gt;新的理论还存在哪些可完善之处？&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;在科学领域探索越多，你会越认同一定要站上前人肩膀，才能远离低水平重复，不重复造轮子，获得可叠加的进步。面对新出现的解释体系，你会下意识地按这套思路思考：提出这个理论是为了解决什么问题或解释什么现象，解决这个问题或解释这个现象的意义何在？已有理论是如何解决这个问题或解释这个现象的，有什么不足？新提出的理论有何优势，如何巧妙解决这些不足，证据是什么？新的理论还存在哪些可完善之处？&lt;/p&gt;
 
 &lt;p&gt;你会发现，这不仅适用于做研究或写论文，也适用于介绍自己的产品或服务，令人更易理解。再面对不是这套思路的介绍，或无法回应这些问题的介绍，你会充满质疑。此时，请一定收起你的不耐烦，及时归纳反面案例，引以为戒。&lt;/p&gt;
 
@@ -881,24 +874,14 @@
   &lt;p&gt;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;如何避免？备几枚常用问题，形势不妙就抛出：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;最近有什么让你特别兴奋（inspired/excited）的进展/项目/收获吗？&lt;/li&gt;
-  &lt;li&gt;过去半年，你觉得自己最大的变化是什么，为什么？&lt;/li&gt;
-  &lt;li&gt;过去三个月，你新接触的哪个概念/方法对你帮助最大？&lt;/li&gt;
-  &lt;li&gt;你最近常用 App 都有哪些，最喜欢哪个，为什么？&lt;/li&gt;
-  &lt;li&gt;你现在典型的一天是怎样的？&lt;/li&gt;
-  &lt;li&gt;你理想的一天是怎样的？为什么？&lt;/li&gt;
-  &lt;li&gt;今年哪本书对你影响最大？为什么？&lt;/li&gt;
-  &lt;li&gt;……&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;如何避免？备几枚常用问题，形势不妙就抛出：https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md 。&lt;/p&gt;
 
 &lt;p&gt;遇到投缘者，还可定期小聚，&lt;a href=&quot;http://joinwee.com/discuss/275/&quot;&gt;借鉴 MIT 实验室定期报告制度&lt;/a&gt;，同步近期主修，交换重大信息。我和熊每月一聚交流新知，已连续五月，这成了我俩每月最期待的节目。推荐你也践行~&lt;/p&gt;
 
 &lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;180310 把问题汇总到一个文档中&lt;/li&gt;
   &lt;li&gt;180209 增加一个问题&lt;/li&gt;
   &lt;li&gt;180104 增加一个问题&lt;/li&gt;
   &lt;li&gt;171129 修订发布至 blog 0.5h&lt;/li&gt;
