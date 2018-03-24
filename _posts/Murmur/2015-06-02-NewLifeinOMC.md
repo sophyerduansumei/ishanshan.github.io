@@ -5,7 +5,7 @@ description: 彷徨多发的毕业季，没经历千军万马的校招，我再�
 category: murmur
 ---
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/SE150602.JPG)
+![se150602.jpg](http://ishanshan.qiniudn.com/share/se150602.jpg?imageMogr2/size-limit/100k!)
 <center>2013 年秋摄于奥林匹克森林公园</center> 
 
 

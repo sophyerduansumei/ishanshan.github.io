@@ -6,7 +6,7 @@ description: 你思量说尽，他悉你忧，知你知与不知，这时候再�
 
 ---
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/Letter3.png)
+![letter3.png](http://ishanshan.qiniudn.com/share/letter3.png)
 
 >你和老板相处有什么秘诀？为什么你可以 hold 住他？
 
@@ -31,3 +31,5 @@ description: 你思量说尽，他悉你忧，知你知与不知，这时候再�
 
 - 161030 修订为书面语发布
 - 161010 讯飞语音口述
+
+

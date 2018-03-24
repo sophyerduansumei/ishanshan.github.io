@@ -16,7 +16,8 @@ category: community
 	+ [GitHub Training & Guides - YouTube](https://www.youtube.com/githubguides)
 - 本文所列建议主要针对非技术协作的知识管理型团队，如果你对所在团队是否是知识管理型团队无所谓，这篇文章不必往下看了;-)
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/LogoGitHub1.jpg?imageView2/2/w/340)
+
+![](http://ishanshan.qiniudn.com/share/logogithub1.jpg?imageView2/2/w/340)
 
 嗯哼，如果以上两坎你都越过，那来看看我被咆哮嫌弃 N 次的业余姿势你中了几个吧……
 
@@ -46,12 +47,13 @@ category: community
 	- 你觉得哪个 URL 更干净易懂简明专业？
   
 - 再看一下目录，用中文真是不忍直视……
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH006.jpg)
+
+	![hbgh006.jpg](http://ishanshan.qiniudn.com/share/hbgh006.jpg)
   
 总之，若你不想徒增烦恼，也不想被队友嫌弃，**在 GitHub 命名中请别出现中文**。
 
 不仅 GitHub ，在其它团队系统中，也都建议你用非中文。毕竟中文同一个意思可以有多种表达，而各人用词、命名习惯不一样，难以形成共识，真是团队知识管理的一大灾难。比如这个：
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH005.jpg)
+![hbgh005.jpg](http://ishanshan.qiniudn.com/share/hbgh005.jpg)
 <center>俺在某以中文为主的协作界面检索「品牌」后返回的结果</center>
 
 
@@ -90,20 +92,20 @@ category: community
 - 并在提交前先 pull 仓库的变化，完成冲突解决后 push
 
 **完成以上动作后，关联驱动这个 wiki 完成的 Issue**  ：
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH001.jpg)
+![](http://ishanshan.qiniudn.com/share/hbgh001.jpg)
 <center>除了放在 sidebar 中、和 Issue 关联，还和配套使用的文档关联以便取用</center> 
 
 这就完了吗？当然不！还需**在协作界面知晓相关人员，比如在 IM 群或任务看板中抛出链接（注意运用 GitHub 锚点特性）并艾特相关伙伴，请其查看后进入下一环**：
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH007.jpg)
+![](http://ishanshan.qiniudn.com/share/hbgh007.jpg)
 <center>通知对方看某个 wiki</center> 
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH012.jpg)
+![](http://ishanshan.qiniudn.com/share/hbgh012.jpg)
 <center>通知对方看某个 Issue 的某个 comment</center> 
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH013.png?imageView2/2/w/335)
+![](http://ishanshan.qiniudn.com/share/hbgh013.png?imageView2/2/w/335)
 <center>通知对方看自己修订了哪些内容</center> 
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH014.png?imageView2/2/w/335)<center>通知对方看自己新增了哪些内容，内容不止一条时可用 commit 锚点快速定位所有新增内容</center> 
+![](http://ishanshan.qiniudn.com/share/hbgh014.png?imageView2/2/w/335)<center>通知对方看自己新增了哪些内容，内容不止一条时可用 commit 锚点快速定位所有新增内容</center> 
 
 
 ## 写文案真的只有「文案」
@@ -120,7 +122,7 @@ category: community
 如何避免？珍惜生命，从我做起。
 
 **在公共目录创建文档，请在开头加上头部说明，以 `5W1H` 简要说明文档背景、使用情境**（比如官网/微信/邮件/宣传册etc.）等信息，以便同伴快速理解调用。比如：
-    ![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH015.jpg)
+    ![](http://ishanshan.qiniudn.com/share/hbgh015.jpg)
 
 <center>标题比正文更重要，别漏了！</center> 
 
@@ -148,7 +150,7 @@ category: community
 
   - 对要讨论的内容，延续 [mailing-list 的礼仪](https://zh.opensuse.org/index.php?title=openSUSE:%E9%83%B5%E4%BB%B6%E5%88%97%E8%A1%A8%E7%B6%B2%E8%B7%AF%E7%A6%AE%E5%84%80&variant=zh-cn#.E4.BD.BF.E7.94.A8.E5.BA.95.E9.83.A8.E5.BC.B5.E8.B2.BC.E6.88.96.E4.BA.A4.E9.8C.AF.E6.A0.BC.E5.BC.8F.E4.BE.86.E5.9B.9E.E7.AD.94) ，采用 [inline reply](https://en.wikipedia.org/wiki/Posting_style#Interleaved_style) 或 [Bottom-posting](https://en.wikipedia.org/wiki/Posting_style#Bottom-posting) 的格式逐一回复观点，比如
 
-  ![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH010.jpg)
+  ![](http://ishanshan.qiniudn.com/share/hbgh010.jpg)
   
   - 除了 assignee，其他人也自觉维护 Issue ，把已形成的共识及时更新到首个 comment 中，**以便其他打开这个 Issue 的伙伴可以快速知晓进展**
   - 若 Issue 完成，及时 close ，让人进入 Issues 主界面即可及时知晓目前正在进行的 Issue。为啥？谨记大妈督导：
@@ -168,7 +170,7 @@ category: community
  - 或至少说明是 Happy ending 还是过期关闭还是啥，让同伴看到时不必问你就可以知道这个 Issue 进展如何。比如：
 
 
- ![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH003.jpg)
+ ![](http://ishanshan.qiniudn.com/share/hbgh003.jpg)
  <center>把共识更新在首个 comment ，close 前更新该 Issue 的进展或结果</center> 
  
 多提一句，Issue close 后，若再需开启，还是可以 reopen 的。当然 reopen 时最好说明原因，以便看到 Issue 的同伴迅速进入状态，开始共创。
@@ -191,7 +193,7 @@ category: community
 ### milestone
 
 若 miletone 设置合理，点开 miletone 界面，可一目了然当前项目进展如何（close 的 Issue 占比多少），比如：
-![](http://openmindclub.qiniudn.com/ishanshan/blog/HbGH004.jpg)
+![](http://ishanshan.qiniudn.com/share/hbgh004.jpg)
 
 由此反推 milestone 的设置思路：
 
@@ -230,7 +232,7 @@ category: community
 
 总之，GitHub Issues 可供性强大，团队养成默契的使用礼仪，用对 GitHub ，用对 Issue s，幸福感会大幅提升！
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/LogoGitHub2.gif)
+![logogithub2.gif](http://ishanshan.qiniudn.com/share/logogithub2.gif)
   
 
 ## 小结

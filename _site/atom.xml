@@ -4,7 +4,7 @@
    <title>ishanshan's blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2018-03-24T16:29:21+08:00</updated>
+   <updated>2018-03-24T19:50:17+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -1142,8 +1142,9 @@
 
 &lt;p&gt;但这样周末汇总、每周重复好像还是挺麻烦？是，为了更省力，我又做了两个调整：&lt;/p&gt;
 
-&lt;p&gt;第一，把日报持续更新在一个 MarkDown 文档中，并借助 GitHub 托管这个 MarkDown 文档，追踪历史版本。这样一来，周末我只需打开 GitHub 客户端切换 commit 记录，就可以方便地浏览日报，摘取周报所需内容：
-&lt;img src=&quot;http://openmindclub.qiniudn.com/ishanshan/blog/InfoWeeklyTep1.png?imageView2/2/w/350&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;第一，把日报持续更新在一个 MarkDown 文档中，并借助 GitHub 托管这个 MarkDown 文档，追踪历史版本。这样一来，周末我只需打开 GitHub 客户端切换 commit 记录，就可以方便地浏览日报，摘取周报所需内容：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/infoweeklytep1.png?imageView2/2/w/350&quot; alt=&quot;infoweeklytep1.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;第二，在 WorkFlowy 中定制周报模板。周报结构固定，把常设节点在 WorkFlowy 中固化下来，每周在模板上更新。还能标记用时类别，分析过去一周的时间分配是否吻合个人在团队中的角色期待。详见我在 &lt;a href=&quot;http://ishanshan.top/selfedu/HbOutputOwetoWorkFlowy.html&quot;&gt;卡片助力输入输出，工具我选 WorkFlowy &lt;/a&gt; 中的示例。&lt;/p&gt;
 
