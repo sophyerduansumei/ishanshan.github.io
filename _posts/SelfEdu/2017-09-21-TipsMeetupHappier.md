@@ -9,7 +9,7 @@ description: Great minds discuss ideas. Average minds discuss events. Small mind
 
 >Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
 
-如何避免？备几枚常用问题，形势不妙就抛出：https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md 。
+如何避免？备几枚常用问题，形势不妙就抛出：<https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md> 。
 
 
 遇到投缘者，还可定期小聚，[借鉴 MIT 实验室定期报告制度](http://joinwee.com/discuss/275/)，同步近期主修，交换重大信息。我和熊每月一聚交流新知，已连续五月，这成了我俩每月最期待的节目。推荐你也践行~
