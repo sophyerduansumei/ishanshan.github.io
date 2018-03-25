@@ -151,7 +151,7 @@ category: community
   
 若刚接触这样的命名规约，难免不知所措。不必担心，多看别人怎么命名,根据命名猜测文档内容并验证，慢慢就轻车熟路啦，比如可以看 
 
--  [@ZoomQuiet 大妈](http://zoomquiet.io/) 在[七牛云](http://openmindclub.qiniudn.com/)中共享的文件
+-  [@ZoomQuiet 大妈](http://zoomquiet.io/) 在[七牛云](http://openmindclub.zoomquiet.top/)中共享的文件
 - GitHub 各 wiki 中的文档等（后两个为团队私有库）
 	- [Home · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki)
 	- [Home · OpenMindClub/blog.openmindclub.com Wiki](https://github.com/OpenMindClub/blog.openmindclub.com/wiki)

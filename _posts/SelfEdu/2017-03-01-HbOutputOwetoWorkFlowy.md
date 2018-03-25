@@ -10,7 +10,7 @@ description: 工具是辅助，输出作品才是目的。
 
 2014 年春节由朋友推荐，我头次接触这款工具，从无所适从，到逐渐上手，再到欲罢不能每日必用，如今大有王子猷看竹「何可一日无此君」之想。它似男友，不对，胜似男友——观察我输入，知悉我输出，且配合默契。男友换了又换，三年来它却一直在（笑）。
 
-![工具探索图](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWayOfKM.jpeg)
+![工具探索图](http://openmindclub.zoomquiet.top/ishanshan/blog/InfoWayOfKM.jpeg)
 
 期间经历学业+实习+志愿工作多管齐下、完成头疼的毕业设计、加入高认知负荷的创业公司，每个阶段难点不同，但 WorkFlowy 一直配合到位，助我过关斩将。我越发好奇，到底为什么，这个小工具可以叫我一直需要它？
 
@@ -18,7 +18,7 @@ description: 工具是辅助，输出作品才是目的。
 
 **知识创造，可以分成三个层级：卡片、文件到项目这三个层级。**
 
-![知识创造层次的图](http://openmindclub.qiniudn.com/ishanshan/blog/InfoKonwledgeCreate.png)
+![知识创造层次的图](http://openmindclub.zoomquiet.top/ishanshan/blog/InfoKonwledgeCreate.png)
 <center> 知识创造各层级的区别 </center> 
 
 卡片层级对输出来说有多重要？将作家理解为建筑师，你就明白——每次盖房子，比起从水泥等粗活干起，直接用预制材料来搭房子会更快更稳。普通人每次写作在干粗活，超一流作家如纳博科夫、钱钟书等，则是**拼接卡片**。
@@ -54,14 +54,14 @@ description: 工具是辅助，输出作品才是目的。
 
 
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWorkflowyEdit.png)
+![](http://openmindclub.zoomquiet.top/ishanshan/blog/InfoWorkflowyEdit.png)
 <center> WorkFlowy 功能简介 </center> 
 
 初见 WorkFlowy ，有人以为这是思维导图软件，有人当作 TODO List，你呢？
 
 不管怎样，WorkFlowy 基础功能虽简，却不失为可供性（[Affordance](https://en.wikipedia.org/wiki/Affordance)）极强的容器，应用场景无数。一如宜人的公园从不划死园区功用，只恰到好处地布上设施，却叫附近居民都能找到乐意停留的角落。
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/InfoWorkflowyUsage.png)
+![](http://openmindclub.zoomquiet.top/ishanshan/blog/InfoWorkflowyUsage.png)
 <center> WorkFlowy 的用户故事 </center> 
 
 这些功能，如果你使用得当，甚至不会再想它增加什么。这不是玩笑，比如我，三年来从不用插件，也没想过需要它增加什么。刚还特意翻了它的 [Feature Announcement](https://blog.workflowy.com/category/feature-announcement/) ，2014 年 8 月后三年没更新，估计也与想不出必须新增什么有关……
@@ -81,7 +81,7 @@ description: 工具是辅助，输出作品才是目的。
 这样一分析，于我，工作区最舒服的尺度，是以周为单位。便在 WorkFlowy 里创造单位节点，并逐步摸索出[工作用的每周 WorkFlowy 模板](https://workflowy.com/s/CO_N.9glcXYoyF4) ：结合周报所需内容，创建每周模板，以便随时积累记录，也便安排日程及检视。一些固定发生的日程，比如周一早上的管理组会、周二的团队周会，也直接放到模板里，提醒自己，也省去重复创建的麻烦。
 
 
-![模板截图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTep.png)
+![模板截图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTep.png)
 <center>我的每周工作梳理模板</center> 
 
 日常临时接到或忽然想起，但又难以立马想到安排在哪天，或实在太零碎不适合写进日报的事情，我则会及时记录在碎片清单的节点下；早晨规划日程或临时空闲，便会查看碎片清单，处理划掉一些事项。
@@ -94,11 +94,11 @@ description: 工具是辅助，输出作品才是目的。
 
 
 
-![工作日志动图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyZoom2.gif) 
+![工作日志动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyZoom2.gif) 
 
 那些可持续积累调用的内容，则移到工作区之外。比如：
 
-![其它区域动图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyZoom3.gif) 
+![其它区域动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyZoom3.gif) 
 
 你也许会喊，一个层级下节点如此多，怎么记得过来！于我，这不是我的工作台，很少长久于此停留，且可检索关键词，就算早超人类大脑最舒适的 4*5 层级，节点再多也无妨。 
 
@@ -106,7 +106,7 @@ description: 工具是辅助，输出作品才是目的。
 
 至于工作以外的内容，我也按自己的兴趣和输入输出的需求，随心创建节点积累卡片：
 
-![其它区域动图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyZoom4.gif)  
+![其它区域动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyZoom4.gif)  
 
 当然这些也都是随心调整，没有绝对标准，只求想输出时能快速找到合适位置写下，想调用时能即时调取。
 
@@ -141,16 +141,16 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 我常把常用关键词设定成标签，借助标签提取局部和整体的关系。举个例子：课程组委会每周多个角色协作，每个角色需要了解自己当周什么时候需要做什么，但并非每个角色都需关注所有本周所有角色的安排，那如何从整体快速剥离每个角色所需事务？ WorkFlowy 帮了大忙：设定涉及角色为标签，只要一点击，便可看到这个角色每周所需要跟进事务：
 
-![动图展示](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage2.gif)
+![动图展示](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage2.gif)
 
 还可把筛选出的内容直接 `export` ，便可理出每个角色的检查清单：
 
-![单个角色检查清单图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage3.gif)
+![单个角色检查清单图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage3.gif)
 
 
 再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。比如：
 
-![ WorkFlowy 统计动图](http://openmindclub.qiniudn.com/ishanshan/blog/DemoWorkflowyTagUsage1.gif)
+![ WorkFlowy 统计动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage1.gif)
 
 
 不过，若非有类似上述的特定目的，我几乎不用标签，一直没有用标签的习惯。且标签是云状结构，不符合人脑工作特点。详见 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN) 这篇被引用 330 次的论文 [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ，或阳志平先生在 [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html) 的解读：

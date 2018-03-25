@@ -30,7 +30,7 @@ category: community
 
 ## 1410@杭州 学习社群助益个人成长 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1410Hangzhou2.jpg)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1410Hangzhou2.jpg)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=202336015&idx=1&sn=a96241f0f9a6f3c9f1ae59d6d37d5cc2&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://hicape.com/2015/02/cape-meetup-review-hangzhou/)
@@ -48,7 +48,7 @@ category: community
 
 ## 1410@南京 联网青年在行动 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1410Nanjing.jpg)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1410Nanjing.jpg)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MzA4MzE2NTExMA==&mid=200355348&idx=1&sn=d3380066179320ee247c8bfa4e8e6c48&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://mp.weixin.qq.com/s?__biz=MzA4MzE2NTExMA==&mid=200391081&idx=1&sn=056077f0eb8e155bd5b69f69c7eba08a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
@@ -64,7 +64,7 @@ Anyway，「动」能玩得爽快，「静」能沉淀下来，对实现活动�
 
 ## 1409@青岛 夜幕沙滩话连接 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1409Qingdao.jpg)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1409Qingdao.jpg)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=202249150&idx=1&sn=b071a8bbccbc3acecfdf09bc7d1aa05c&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://mp.weixin.qq.com/s?__biz=MzA5NzI5MDQyOA==&mid=201271215&idx=1&sn=b8bc06034abb868f032e6918136b5374&scene=1&key=1936e2bc22c2ceb5fcb8af7c6bfbdf1b5da8ed3dc18ff743b4b7e63884e058e42951dde6c5c3476df798214112282bfb&ascene=0&uin=MzY0NjA1NjU%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.10.2+build(14C2513)&version=11020012&pass_ticket=5Z8dp0UVOKHOOvhqByFOrJfVJYXJCiZ62KCRqfsqXdE%3D)
@@ -80,7 +80,7 @@ Anyway，「动」能玩得爽快，「静」能沉淀下来，对实现活动�
 
 ## 1408@北京 社区运营一起聊 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1408Beijing.JPG)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1408Beijing.JPG)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=201931694&idx=2&sn=a1f506cba1b7ab08c7b4dfda1583bbc1&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=202174494&idx=1&sn=9bcfbbe318da63c8215e3ee79c65924d&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
@@ -102,7 +102,7 @@ PS.或许是我在这场活动筹备过程的表现给微学英语创始人 @GJ 
 
 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1407Beijing.JPG)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1407Beijing.JPG)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MjM5NDAwNDEwMA==&mid=200446110&idx=1&sn=3d196ed18bcedb9918eed65ee8d0d6e3&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=201723780&idx=1&sn=2962b3737a1566df51fdb58e03d98726&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
@@ -116,7 +116,7 @@ PS.或许是我在这场活动筹备过程的表现给微学英语创始人 @GJ 
 
 ## 1407@北京 北京，走你！ 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1407Beijing2.JPG)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1407Beijing2.JPG)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=201169815&idx=1&sn=def58d55cece96122b63efcebde5b582&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=201347578&idx=2&sn=0e001f8dd988e40f606015570f9d67d7&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
@@ -142,7 +142,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 ## 1402@贵港 Push to Pull——做更好的自己 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1402Guigang.jpg)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1402Guigang.jpg)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=200017448&idx=1&sn=5bbf94674a353c7c53d6c5968f1a356f&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://hicape.com/2014/02/guigang-meetup-review/)
@@ -162,7 +162,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 ## 1401@南宁 美式知识聚餐 
 
-![ ](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1401Nanning.jpg)
+![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1401Nanning.jpg)
 
 - [活动介绍](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=100013051&idx=6&sn=a31812b15986586191bfcb9999b444a2&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 - [活动回顾](http://hicape.com/2014/01/nanning-meetup-review-2/)
@@ -181,7 +181,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 ## 1310@北京 深度访谈学习小组 
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1310BJDeepInterviewGroup0.png)
+![](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1310BJDeepInterviewGroup0.png)
 
 - [活动介绍](http://www.ad.dijiuke.com/class/view/0000lQa)
 - [活动回顾](http://weibo.com/1696816107/AunjR2n22?from=page_1005051696816107_profile&wvr=6&mod=weibotime&type=comment#_rnd1429840028602)
@@ -199,7 +199,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 ## 1305@北京 设计你的学习时光 
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1305BJBTYW0.png)
+![](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1305BJBTYW0.png)
 
 - [活动介绍](http://www.huodongxing.com/event/9177958851400)
 - **关键词**：思维导图、优化流程
@@ -216,7 +216,7 @@ PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原�
 
 ## 1304@北京 Equip Yourself in Web2.0 
 
-![](http://openmindclub.qiniudn.com/ishanshan/blog/Activity/Act1305Beijing.JPG)
+![](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1305Beijing.JPG)
 
 - [活动介绍](http://www.huodongxing.com/event/4170170558400?utm_source=%e6%90%9c%e7%b4%a2%e9%a1%b5&utm_medium=&utm_campaign=searchpage)
 - [活动回顾](http://page.renren.com/699127446/note/902484297)
