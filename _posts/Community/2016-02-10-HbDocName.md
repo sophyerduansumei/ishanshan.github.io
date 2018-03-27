@@ -149,15 +149,17 @@ category: community
 
 ## 命名示例
   
-若刚接触这样的命名规约，难免不知所措。不必担心，多看别人怎么命名,根据命名猜测文档内容并验证，慢慢就轻车熟路啦，比如可以看 
+若刚接触这样的命名规约，难免不知所措。不必担心，多看别人怎么命名,根据命名猜测文档内容并验证，慢慢就轻车熟路啦，比如可以看看看这些示例：
 
--  [@ZoomQuiet 大妈](http://zoomquiet.io/) 在[七牛云](http://openmindclub.zoomquiet.top/)中共享的文件
-- GitHub 各 wiki 中的文档等（后两个为团队私有库）
-	- [Home · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki)
-	- [Home · OpenMindClub/blog.openmindclub.com Wiki](https://github.com/OpenMindClub/blog.openmindclub.com/wiki)
-	- [Home · OpenMindClub/OMOOC.DeepLearning.OC Wiki](https://github.com/OpenMindClub/OMOOC.DeepLearning.OC/wiki)
 
-是不是十分简明干净？
+- [Home · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki) 右侧 pages ：
+	
+	![sampledocname.jpeg](http://ishanshan.qiniudn.com/share/sampledocname.jpeg)
+- [CollaborationGuide4Shaper/CONTENT at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT) 所列文件：
+	
+	![sampledocname2.jpeg](http://ishanshan.qiniudn.com/share/sampledocname2.jpeg)
+
+是不是十分简明干净？（不是？来人啊拖出去胖揍一顿~）
 
 --
 
@@ -168,6 +170,7 @@ category: community
 
 ## CHANGELOG
 
+- 180327 更新命名示例
 - 170826 增补 `请勿出现「@」「#」符号` 组块
 - 170318 删减细节修订措辞
 - 170201 增补原则及示例
