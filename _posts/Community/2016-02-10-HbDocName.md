@@ -158,7 +158,7 @@ category: community
 - [CollaborationGuide4Shaper/CONTENT at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT) 所含文件：
 	
 	![sampledocname2.jpeg](http://ishanshan.qiniudn.com/share/sampledocname2.jpeg)
-- [HbCollaborateWikiandCode · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode) 中的举例：
+- [HbCollaborateWikiandCode · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode) 所举案例：
 
 		HbCollaborate.md                  InfoShow.md                       LogMeeting171226PrepareforShow.md
 		Home.md                           InfoShowQA.md                     ReviewFinalProject_Serena333.md
@@ -166,7 +166,7 @@ category: community
 		InfoLost.md                       LogMeeting171205BrandName.md      ReviewFinalProject_yixiu.md
 		InfoProjectIdea.md                LogMeeting171213VedioIdea.md      _Sidebar.md
 
-是不是十分简明干净？（不是？来人啊拖出去胖揍一顿~）
+怎样，是不是十分优雅干净？（不是？来人呐拖出去胖揍一顿~）
 
 --
 
