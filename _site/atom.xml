@@ -4,7 +4,7 @@
    <title>ishanshan's blog</title>
    <link href="http://ishanshan.top/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://ishanshan.top" rel="alternate" type="text/html" />
-   <updated>2018-03-25T14:09:24+08:00</updated>
+   <updated>2018-03-31T16:50:41+08:00</updated>
    <id>http://ishanshan.top</id>
    <author>
      <name></name>
@@ -1090,6 +1090,10 @@
 
 &lt;p&gt;所以我一般&lt;strong&gt;保持全局视图&lt;/strong&gt;。要看某个节点时展开就好，毕竟视窗就那么点，也看不到太多干扰，还方便上下滚动屏幕，查看或拖动节点。&lt;/p&gt;
 
+&lt;p&gt;如果的确有几个层级较深且常需切换的节点，我会 star 这些节点，然后利用 WorkFlowy switch between pages 的快捷键 &lt;code class=&quot;highlighter-rouge&quot;&gt;CMD+;&lt;/code&gt; 切换：
+do
+&lt;img src=&quot;http://ishanshan.qiniudn.com/share/hbworkflowystar2.gif?imageView2/2/w/750/format/webp&quot; alt=&quot;hbworkflowystar2.gif&quot; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-5&quot;&gt;期望过奢，用于文件层级&lt;/h3&gt;
 
 &lt;p&gt;时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改造 WorkFlowy 增加写文章、插图等功能开发了一款应用。&lt;/p&gt;
@@ -1111,6 +1115,7 @@
 &lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;180331 增补频繁切换多个深层级节点的建议&lt;/li&gt;
   &lt;li&gt;171204 更新 WorkFlowy desktop App 下载链接&lt;/li&gt;
   &lt;li&gt;170302 增补注册邀请链接&lt;/li&gt;
   &lt;li&gt;170301 初次起草一年后终于发布……&lt;/li&gt;

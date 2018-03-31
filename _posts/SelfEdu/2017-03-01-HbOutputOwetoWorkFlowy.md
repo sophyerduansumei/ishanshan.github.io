@@ -181,6 +181,10 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 所以我一般**保持全局视图**。要看某个节点时展开就好，毕竟视窗就那么点，也看不到太多干扰，还方便上下滚动屏幕，查看或拖动节点。
 
+如果的确有几个层级较深且常需切换的节点，我会 star 这些节点，然后利用 WorkFlowy switch between pages 的快捷键 `CMD+;` 切换：
+do
+![hbworkflowystar2.gif](http://ishanshan.qiniudn.com/share/hbworkflowystar2.gif?imageView2/2/w/750/format/webp)
+
 ### 期望过奢，用于文件层级
 
 
@@ -207,6 +211,7 @@ PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链
 
 ## CHANGELOG 
 
+- 180331 增补频繁切换多个深层级节点的建议
 - 171204 更新 WorkFlowy desktop App 下载链接
 - 170302 增补注册邀请链接
 - 170301 初次起草一年后终于发布……
