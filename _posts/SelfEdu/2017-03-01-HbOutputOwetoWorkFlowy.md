@@ -52,9 +52,8 @@ description: 工具是辅助，输出作品才是目的。
 
 如果你还没用过 WorkFlowy ，可以先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
 
+<iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.vA3vHSrxk2?demo"></iframe>
 
-
-![](http://openmindclub.zoomquiet.top/ishanshan/blog/InfoWorkflowyEdit.png)
 <center> WorkFlowy 功能简介 </center> 
 
 初见 WorkFlowy ，有人以为这是思维导图软件，有人当作 TODO List，你呢？
@@ -80,13 +79,13 @@ description: 工具是辅助，输出作品才是目的。
 
 这样一分析，于我，工作区最舒服的尺度，是以周为单位。便在 WorkFlowy 里创造单位节点，并逐步摸索出[工作用的每周 WorkFlowy 模板](https://workflowy.com/s/CO_N.9glcXYoyF4) ：结合周报所需内容，创建每周模板，以便随时积累记录，也便安排日程及检视。一些固定发生的日程，比如周一早上的管理组会、周二的团队周会，也直接放到模板里，提醒自己，也省去重复创建的麻烦。
 
+<iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.9glcXYoyF4?demo"></iframe>
 
-![模板截图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTep.png)
 <center>我的每周工作梳理模板</center> 
 
 日常临时接到或忽然想起，但又难以立马想到安排在哪天，或实在太零碎不适合写进日报的事情，我则会及时记录在碎片清单的节点下；早晨规划日程或临时空闲，便会查看碎片清单，处理划掉一些事项。
 
-那些需要记录的讨论内容，需要思考梳理和输出议题或项目，则在当周次级节点下任意发挥。比如管理组会这个节点下，我一般记录想讨论的议题和纪要。
+那些需要记录的讨论内容，需要思考梳理和输出议题或项目，则在当周次级节点下任意发挥（即在周会节点后敲回车新建对应节点）。比如周会这个节点下，我一般记录想讨论的议题和纪要。
 
 此外，当周需记录的讨论，要思考梳理和输出议题或项目，我也随时记录在当周单位节点下，如果下周还会用到，则会把要用的内容挪到下一周的节点下；如果节点内容已输出为某个文档或文件，我则会把相应链接备注在节点下；如果某个内容要持续积累调用，我便把这个节点的内容拖动/复制到 工作台之外，持续积累。
 
@@ -211,6 +210,7 @@ PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链
 
 ## CHANGELOG 
 
+- 180421 把一些示例图片替换为 embed 形式
 - 180331 增补频繁切换多个深层级节点的建议
 - 171204 更新 WorkFlowy desktop App 下载链接
 - 170302 增补注册邀请链接
