@@ -12,4 +12,4 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 title: L小夕's blog
 url: http://sophyerduansumei.com
 feed: /atom.xml
-author_info: <a href="http://sophyerduansumei.com">ishanshan</a>
+author_info: <a href="http://sophyerduansumei.com">L小夕</a>
